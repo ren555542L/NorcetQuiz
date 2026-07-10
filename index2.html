@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NorQuiz</title>
+    <link rel="stylesheet" href="style2.css">
+</head>
+<body>
+        <!-- NavBar -->
+    <header>
+        <nav class="header-navigation">
+            <div id="heading">
+                <h3>ExamWrappers</h3>
+            </div>
+            <div class="navlinks">
+                <a href="index.html#home">Home</a>
+                <a href="index.html#about">About</a>
+                <a href="index.html#footer-section">Info</a>
+                <a href="index2.html">Practice</a>
+            </div>
+            <div id="sign"><h6>SignIn</h6></div>
+            <div id="hamburger">
+                <a href="#">☰</a>
+            </div>
+        </nav>
+    </header>
+
+    <!-- prelims -->
+    <section class="exam">
+        <div class="prelims">
+            <h2></h2>
+            <p></p><hr>
+            <div id="button"></div>
+        </div>
+        <div class="prelims">
+            <h2></h2>
+            <p></p><hr>
+            <div id="button"></div>
+        </div>
+    </section>
+
+    <section class="quiz-section" id="quiz">
+    <div class="quiz-container">
+        <!-- Quiz start screen -->
+        <div class="quiz-start-screen" id="quizStartScreen">
+        <p class="quiz-small-heading">NORCET Previous-Year Questions</p>
+        <h2>Test Your Nursing Knowledge</h2>
+
+        <p class="quiz-description">
+            Attempt previous-year NORCET questions from 2020 to 2024.
+        </p>
+
+        <div class="quiz-settings">
+            <label>
+            Number of questions
+
+            <select id="quizQuestionCount">
+                <option value="25">25 Questions</option>
+                <option value="50">50 Questions</option>
+                <option value="100" selected>100 Questions</option>
+            </select>
+            </label>
+
+            <label>
+            Select year
+
+            <select id="quizYear">
+                <option value="all">All Years</option>
+                <option value="2020">2020</option>
+                <option value="2021">2021</option>
+                <option value="2022">2022</option>
+                <option value="2023">2023</option>
+                <option value="2024">2024</option>
+            </select>
+            </label>
+        </div>
+
+        <label class="quiz-checkbox">
+            <input type="checkbox" id="quizShuffle" checked />
+            Shuffle questions
+        </label>
+
+        <p class="quiz-error" id="quizError"></p>
+
+        <button class="quiz-primary-button" id="quizStartButton">
+            Start Quiz
+        </button>
+        </div>
+
+        <!-- Main quiz screen -->
+        <div class="quiz-main-screen quiz-hidden" id="quizMainScreen">
+        <div class="quiz-header">
+            <div>
+            <p id="quizQuestionNumber">Question 1 of 100</p>
+            <span id="quizQuestionYear">NORCET 2020</span>
+            </div>
+
+            <div class="quiz-header-stats">
+            <div>
+                <small>Answered</small>
+                <strong id="quizAnsweredCount">0/100</strong>
+            </div>
+
+            <div>
+                <small>Time</small>
+                <strong id="quizTimer">00:00</strong>
+            </div>
+            </div>
+        </div>
+
+        <div class="quiz-progress-track">
+            <div class="quiz-progress-bar" id="quizProgressBar"></div>
+        </div>
+
+        <div class="quiz-content">
+            <div class="quiz-question-area">
+            <h3 id="quizQuestionText"></h3>
+
+            <div class="quiz-options" id="quizOptions"></div>
+
+            <div class="quiz-navigation">
+                <button class="quiz-secondary-button" id="quizPreviousButton">
+                Previous
+                </button>
+
+                <button class="quiz-review-button" id="quizMarkButton">
+                Mark for Review
+                </button>
+
+                <button class="quiz-primary-button" id="quizNextButton">
+                Next
+                </button>
+            </div>
+            </div>
+
+            <aside class="quiz-palette-area">
+            <h3>Questions</h3>
+
+            <div class="quiz-palette-legend">
+                <span>
+                <i class="quiz-legend answered"></i>
+                Answered
+                </span>
+
+                <span>
+                <i class="quiz-legend review"></i>
+                Review
+                </span>
+
+                <span>
+                <i class="quiz-legend current"></i>
+                Current
+                </span>
+            </div>
+
+            <div class="quiz-question-palette" id="quizQuestionPalette"></div>
+
+            <button class="quiz-submit-button" id="quizSubmitButton">
+                Submit Quiz
+            </button>
+            </aside>
+        </div>
+        </div>
+
+        <!-- Result screen -->
+        <div class="quiz-result-screen quiz-hidden" id="quizResultScreen">
+        <p class="quiz-small-heading">Quiz Completed</p>
+        <h2>Your Result</h2>
+
+        <div class="quiz-score-circle">
+            <strong id="quizScorePercentage">0%</strong>
+            <span>Score</span>
+        </div>
+
+        <div class="quiz-result-stats">
+            <div>
+            <span>Correct</span>
+            <strong id="quizCorrectCount">0</strong>
+            </div>
+
+            <div>
+            <span>Incorrect</span>
+            <strong id="quizIncorrectCount">0</strong>
+            </div>
+
+            <div>
+            <span>Unanswered</span>
+            <strong id="quizUnansweredCount">0</strong>
+            </div>
+
+            <div>
+            <span>Time</span>
+            <strong id="quizResultTime">00:00</strong>
+            </div>
+        </div>
+
+        <div class="quiz-result-buttons">
+            <button class="quiz-secondary-button" id="quizReviewAnswersButton">
+            Review Answers
+            </button>
+
+            <button class="quiz-primary-button" id="quizRestartButton">
+            Attempt Again
+            </button>
+        </div>
+        </div>
+
+        <!-- Answer review screen -->
+        <div class="quiz-answer-review quiz-hidden" id="quizAnswerReview">
+        <div class="quiz-review-header">
+            <div>
+            <p class="quiz-small-heading">Answer Review</p>
+            <h2>Review Your Answers</h2>
+            </div>
+
+            <button class="quiz-secondary-button" id="quizBackToResultButton">
+            Back to Result
+            </button>
+        </div>
+
+        <div class="quiz-review-list" id="quizReviewList"></div>
+        </div>
+    </div>
+    </section>
+
+    <!-- footer -->
+    <footer class="footer-section">
+        <div class="footer-container">
+            <!-- Column 1: Brand & Intro -->
+            <div class="footer-col brand-col">
+                <h2>NorQuiz</h2>
+                <p>Empowering future Nursing Officers to conquer NORCET with confidence. High-yield test series, real-time analytics, and expert-curated clinical case questions.</p>
+                <div class="social-links">
+                    <a href="#" aria-label="Telegram"><i class="fab fa-telegram"></i></a>
+                    <a href="#" aria-label="YouTube"><i class="fab fa-youtube"></i></a>
+                    <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+                    <a href="#" aria-label="Facebook"><i class="fab fa-facebook"></i></a>
+                </div>
+            </div>
+
+            <div class="footer-col">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li><a href="#top">Home</a></li>
+                    <li><a href="#aboutus">About Us</a></li>
+                    <li><a href="#">Premium Plans</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-col">
+                <h3>Resources</h3>
+                <ul>
+                    <li><a href="#">Stage I Prelims Prep</a></li>
+                    <li><a href="#">Stage II Clinical Scenario Tests</a></li>
+                    <li><a href="#">Previous Year Papers</a></li>
+                    <li><a href="#">Daily Mini-Quizzes</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-col">
+                <h3>Support</h3>
+                <ul>
+                    <li><a href="#">Help Center / FAQ</a></li>
+                    <li><a href="#">Contact Us</a></li>
+                    <li><a href="#">Terms & Conditions</a></li>
+                    <li><a href="#">Privacy Policy</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <hr class="footer-divider">
+        <div class="footer-bottom">
+            <p class="copyright">&copy; 2026 NorQuiz. All Rights Reserved.</p>
+            <p class="disclaimer"><strong>Disclaimer:</strong> NorQuiz is an independent educational platform for exam preparation. We are not officially affiliated with, associated with, or endorsed by AIIMS New Delhi or any government organization.</p>
+        </div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
