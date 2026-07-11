@@ -193,20 +193,17 @@ function displayQuestion() {
     `NORCET ${question.year}`;
 
   quizElements.questionText.textContent = question.question;
-  if (
-    question.image &&
-    question.disabled === false
-  ) {
+
+  if (question.image && question.disabled !== true) {
     quizElements.questionImage.src = question.image;
     quizElements.questionImage.alt =
       `Image for question ${quizState.currentIndex + 1}`;
 
     quizElements.questionImage.classList.remove("quiz-hidden");
   } else {
-    quizElements.questionImage.src = "";
+    quizElements.questionImage.removeAttribute("src");
     quizElements.questionImage.classList.add("quiz-hidden");
   }
-
   quizElements.progressBar.style.width =
     `${((quizState.currentIndex + 1) / totalQuestions) * 100}%`;
 
