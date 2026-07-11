@@ -54,27 +54,54 @@ const quizElements = {
 
 async function loadQuizQuestions() {
   try {
-    const response = await fetch("./norcet_questions_flat.json");
+    const jsonPath = "./norcet_questions_flat.json";
+
+    console.log("Loading questions from:", jsonPath);
+
+    const response = await fetch(jsonPath);
+
+    console.log("Response status:", response.status);
+    console.log("Response URL:", response.url);
 
     if (!response.ok) {
-      throw new Error("Unable to load quiz questions.");
+      throw new Error(
+        `Question file request failed: ${response.status} ${response.statusText}`
+      );
     }
 
     const questions = await response.json();
 
+    console.log("Loaded JSON:", questions);
+
+    if (!Array.isArray(questions)) {
+      throw new Error(
+        "The JSON file does not contain a direct array of questions."
+      );
+    }
+
     quizState.allQuestions = questions.filter(question => {
       return (
-        !question.disabled &&
-        question.question &&
+        question.disabled !== true &&
+        typeof question.question === "string" &&
         Array.isArray(question.options) &&
         question.options.length >= 2
       );
     });
+
+    console.log(
+      `Loaded ${quizState.allQuestions.length} usable questions.`
+    );
+
+    if (quizState.allQuestions.length === 0) {
+      throw new Error(
+        "The JSON loaded successfully, but no usable questions were found."
+      );
+    }
   } catch (error) {
-    console.error(error);
+    console.error("NorQuiz loading error:", error);
 
     quizElements.error.textContent =
-      "Questions could not be loaded. Run the website using Live Server.";
+      `Questions could not be loaded: ${error.message}`;
 
     quizElements.startButton.disabled = true;
   }
