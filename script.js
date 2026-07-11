@@ -33,6 +33,7 @@ const quizElements = {
   questionNumber: document.querySelector("#quizQuestionNumber"),
   questionYear: document.querySelector("#quizQuestionYear"),
   questionText: document.querySelector("#quizQuestionText"),
+  questionImage: document.querySelector("#quizQuestionImage"),
   options: document.querySelector("#quizOptions"),
   progressBar: document.querySelector("#quizProgressBar"),
   palette: document.querySelector("#quizQuestionPalette"),
@@ -53,7 +54,7 @@ const quizElements = {
 
 async function loadQuizQuestions() {
   try {
-    const response = await fetch("./norcet_questions_usable.json");
+    const response = await fetch("./norcet_questions_flat.json");
 
     if (!response.ok) {
       throw new Error("Unable to load quiz questions.");
@@ -64,7 +65,6 @@ async function loadQuizQuestions() {
     quizState.allQuestions = questions.filter(question => {
       return (
         !question.disabled &&
-        !question.imageRequired &&
         question.question &&
         Array.isArray(question.options) &&
         question.options.length >= 2
@@ -166,6 +166,19 @@ function displayQuestion() {
     `NORCET ${question.year}`;
 
   quizElements.questionText.textContent = question.question;
+  if (
+    question.image &&
+    question.disabled === false
+  ) {
+    quizElements.questionImage.src = question.image;
+    quizElements.questionImage.alt =
+      `Image for question ${quizState.currentIndex + 1}`;
+
+    quizElements.questionImage.classList.remove("quiz-hidden");
+  } else {
+    quizElements.questionImage.src = "";
+    quizElements.questionImage.classList.add("quiz-hidden");
+  }
 
   quizElements.progressBar.style.width =
     `${((quizState.currentIndex + 1) / totalQuestions) * 100}%`;

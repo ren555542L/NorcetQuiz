@@ -580,6 +580,20 @@ header {
   border-right: 1px solid var(--quiz-border);
 }
 
+.quiz-question-image {
+  display: block;
+  width: min(100%, 500px);
+  max-height: 350px;
+  margin: 0 auto 24px;
+  object-fit: contain;
+  border: 1px solid var(--quiz-border);
+  border-radius: 12px;
+}
+
+.quiz-question-image.quiz-hidden {
+  display: none;
+}
+
 #quizQuestionText {
   margin: 0 0 25px;
   font-size: clamp(20px, 3vw, 27px);
