@@ -2445,8 +2445,8 @@
       "Bilateral abscess",
       "Give Bronocriptine"
     ],
-    "correctOption": 2,
-    "correctAnswer": "Left breast feeding from both breast",
+    "correctOption": 1,
+    "correctAnswer": "Breastfeeding continue",
     "imageRequired": false,
     "sourceType": "previous_year",
     "needsReview": false,
@@ -4548,7 +4548,7 @@
     "sourceId": "NORCET-2021-Q145",
     "year": 2021,
     "questionNumber": 145,
-    "question": "All the following are normal manifestation in A",
+    "question": "which all the following are not normal manifestation in A",
     "options": [
       "Uneven head shape",
       "Respirations are irregular, abdominal, 30- 60 bpm",
