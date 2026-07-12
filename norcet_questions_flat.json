@@ -4,12 +4,7 @@
     "year": 2020,
     "questionNumber": 1,
     "question": "The relation between the fetal presenting part and meternal pelvis is known as?",
-    "options": [
-      "Attitude",
-      "Lie",
-      "Position",
-      "Station"
-    ],
+    "options": ["Attitude", "Lie", "Position", "Station"],
     "correctOption": 3,
     "correctAnswer": "Position",
     "imageRequired": false,
@@ -23,12 +18,7 @@
     "year": 2020,
     "questionNumber": 2,
     "question": "Which vaccine can be frozen?",
-    "options": [
-      "BCG",
-      "polio",
-      "MMR",
-      "DPT/DT"
-    ],
+    "options": ["BCG", "polio", "MMR", "DPT/DT"],
     "correctOption": 3,
     "correctAnswer": "MMR",
     "imageRequired": false,
@@ -42,12 +32,7 @@
     "year": 2020,
     "questionNumber": 3,
     "question": "Which vaccine given to forms blister and heals by itself and forms parmanant scar mark after administration is?",
-    "options": [
-      "BCG",
-      "MMR",
-      "DPT/DT",
-      "Polio"
-    ],
+    "options": ["BCG", "MMR", "DPT/DT", "Polio"],
     "correctOption": 1,
     "correctAnswer": "BCG",
     "imageRequired": false,
@@ -81,12 +66,7 @@
     "year": 2020,
     "questionNumber": 5,
     "question": "A post LSCS woman posses 400 ml urine in past 24 hours?",
-    "options": [
-      "Oligouria",
-      "Polyuria",
-      "Anuria",
-      "Hematuria"
-    ],
+    "options": ["Oligouria", "Polyuria", "Anuria", "Hematuria"],
     "correctOption": 1,
     "correctAnswer": "Oligouria",
     "imageRequired": false,
@@ -100,12 +80,7 @@
     "year": 2020,
     "questionNumber": 6,
     "question": "Red color urine is caused by which anti tubercular drug?",
-    "options": [
-      "Isoniazid",
-      "Rifampicin",
-      "Streptomycin",
-      "Etambutol"
-    ],
+    "options": ["Isoniazid", "Rifampicin", "Streptomycin", "Etambutol"],
     "correctOption": 2,
     "correctAnswer": "Rifampicin",
     "imageRequired": false,
@@ -119,12 +94,7 @@
     "year": 2020,
     "questionNumber": 7,
     "question": "Visualization of bone in which stage of burn?",
-    "options": [
-      "1st stage",
-      "2nd stage",
-      "3rd stage",
-      "4th stage"
-    ],
+    "options": ["1st stage", "2nd stage", "3rd stage", "4th stage"],
     "correctOption": 4,
     "correctAnswer": "4th stage",
     "imageRequired": false,
@@ -138,12 +108,7 @@
     "year": 2020,
     "questionNumber": 8,
     "question": "Bullet train in india was run with the help of which country?",
-    "options": [
-      "Japan",
-      "China",
-      "Russia",
-      "USA"
-    ],
+    "options": ["Japan", "China", "Russia", "USA"],
     "correctOption": 1,
     "correctAnswer": "Japan",
     "imageRequired": false,
@@ -166,7 +131,7 @@
     "correctOption": 1,
     "correctAnswer": "Blood sampling for ABG analysis",
     "imageRequired": true,
-    "image" : "./images/2020/q9.png",
+    "image": "./images/2020/q9.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_2020_Question-Paper.pdf",
@@ -186,7 +151,7 @@
     "correctOption": 3,
     "correctAnswer": "LSCS",
     "imageRequired": true,
-    "image" : "./images/2020/q10.png",
+    "image": "./images/2020/q10.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_2020_Question-Paper.pdf",
@@ -197,16 +162,11 @@
     "year": 2020,
     "questionNumber": 11,
     "question": "Identify the colour of IV cannula used in poediatrics unit?",
-    "options": [
-      "Yellow",
-      "Orange",
-      "Grey",
-      "Green"
-    ],
+    "options": ["Yellow", "Orange", "Grey", "Green"],
     "correctOption": 1,
     "correctAnswer": "Yellow",
     "imageRequired": true,
-    "image" : "./images/2020/q11.png",
+    "image": "./images/2020/q11.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_2020_Question-Paper.pdf",
@@ -217,16 +177,11 @@
     "year": 2020,
     "questionNumber": 12,
     "question": "Identify the size of IV Cannula in Image?",
-    "options": [
-      "14 G",
-      "16 G",
-      "18 G",
-      "20 G"
-    ],
+    "options": ["14 G", "16 G", "18 G", "20 G"],
     "correctOption": 1,
     "correctAnswer": "14 G",
     "imageRequired": true,
-    "image" : "./images/2020/q12.png",
+    "image": "./images/2020/q12.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_2020_Question-Paper.pdf",
@@ -256,12 +211,7 @@
     "year": 2020,
     "questionNumber": 14,
     "question": "A 28 year old primigravida comes to the ANC OPD, how many additional Kcal will you recommend?",
-    "options": [
-      "200 kcal",
-      "300 kcal",
-      "500 kcal",
-      "1000 kcal"
-    ],
+    "options": ["200 kcal", "300 kcal", "500 kcal", "1000 kcal"],
     "correctOption": 2,
     "correctAnswer": "300 kcal",
     "imageRequired": false,
@@ -294,12 +244,7 @@
     "year": 2020,
     "questionNumber": 16,
     "question": "The pelvis shape has the poorest prognosis from vaginal delivery?",
-    "options": [
-      "Android",
-      "Gynecoid",
-      "Platypelloid",
-      "Anthropoid"
-    ],
+    "options": ["Android", "Gynecoid", "Platypelloid", "Anthropoid"],
     "correctOption": 1,
     "correctAnswer": "Android",
     "imageRequired": false,
@@ -322,7 +267,7 @@
     "correctOption": 1,
     "correctAnswer": "Decrease pain",
     "imageRequired": true,
-    "image" : "./images/2020/q17.png",
+    "image": "./images/2020/q17.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_2020_Question-Paper.pdf",
@@ -371,12 +316,7 @@
     "year": 2020,
     "questionNumber": 20,
     "question": "What is the cerebral perfusion pressure (CPP) if BP is 90/60 and ICP is 18?",
-    "options": [
-      "48 mmHg",
-      "65 mmHg",
-      "52 mmHg",
-      "30 mmHg"
-    ],
+    "options": ["48 mmHg", "65 mmHg", "52 mmHg", "30 mmHg"],
     "correctOption": 3,
     "correctAnswer": "52 mmHg",
     "imageRequired": false,
@@ -390,12 +330,7 @@
     "year": 2020,
     "questionNumber": 21,
     "question": "Most southern state of India?",
-    "options": [
-      "Karnataka",
-      "Kerla",
-      "Tamil Nadu",
-      "Andhra Pradesh"
-    ],
+    "options": ["Karnataka", "Kerla", "Tamil Nadu", "Andhra Pradesh"],
     "correctOption": 3,
     "correctAnswer": "Tamil Nadu",
     "imageRequired": false,
@@ -409,12 +344,7 @@
     "year": 2020,
     "questionNumber": 22,
     "question": "3rd planet from the sun?",
-    "options": [
-      "Venus",
-      "Mars",
-      "Earth",
-      "Jupiter"
-    ],
+    "options": ["Venus", "Mars", "Earth", "Jupiter"],
     "correctOption": 3,
     "correctAnswer": "Earth",
     "imageRequired": false,
@@ -428,12 +358,7 @@
     "year": 2020,
     "questionNumber": 23,
     "question": "Rafale jet come from which country?",
-    "options": [
-      "France",
-      "Japan",
-      "China",
-      "Russia"
-    ],
+    "options": ["France", "Japan", "China", "Russia"],
     "correctOption": 1,
     "correctAnswer": "France",
     "imageRequired": false,
@@ -447,12 +372,7 @@
     "year": 2020,
     "questionNumber": 24,
     "question": "After remove of NG from patient it discarded in which colour of bag?",
-    "options": [
-      "Yellow",
-      "Red",
-      "Black",
-      "Blue"
-    ],
+    "options": ["Yellow", "Red", "Black", "Blue"],
     "correctOption": 2,
     "correctAnswer": "Red",
     "imageRequired": false,
@@ -466,12 +386,7 @@
     "year": 2020,
     "questionNumber": 25,
     "question": "Electronic City of India?",
-    "options": [
-      "Delhi",
-      "Chandigarh",
-      "Bangalore",
-      "Indore"
-    ],
+    "options": ["Delhi", "Chandigarh", "Bangalore", "Indore"],
     "correctOption": 3,
     "correctAnswer": "Bangalore",
     "imageRequired": false,
@@ -485,12 +400,7 @@
     "year": 2020,
     "questionNumber": 26,
     "question": "WHO headquarters is situated at?",
-    "options": [
-      "Geneva",
-      "Rome",
-      "Washington",
-      "Paris"
-    ],
+    "options": ["Geneva", "Rome", "Washington", "Paris"],
     "correctOption": 1,
     "correctAnswer": "Geneva",
     "imageRequired": false,
@@ -523,12 +433,7 @@
     "year": 2020,
     "questionNumber": 28,
     "question": "The online seller selling the bag in online at rupee 2000, with already 20% of discount and after placing the order he gives additional 10% discount. So find the actual selling cost of the bag?",
-    "options": [
-      "1200",
-      "1440",
-      "1600",
-      "1320"
-    ],
+    "options": ["1200", "1440", "1600", "1320"],
     "correctOption": 2,
     "correctAnswer": "1440",
     "imageRequired": false,
@@ -570,7 +475,7 @@
     "correctOption": 1,
     "correctAnswer": "Guedel airway",
     "imageRequired": true,
-    "image" : "./images/2020/q30.png",
+    "image": "./images/2020/q30.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_2020_Question-Paper.pdf",
@@ -581,12 +486,7 @@
     "year": 2020,
     "questionNumber": 31,
     "question": "On the evening time in sunlight face to face the A and D where standing. The A person shadown in D right side. Then in which direction does the D standing?",
-    "options": [
-      "West side",
-      "North side",
-      "South side",
-      "East side"
-    ],
+    "options": ["West side", "North side", "South side", "East side"],
     "correctOption": 2,
     "correctAnswer": "North side",
     "imageRequired": false,
@@ -619,16 +519,11 @@
     "year": 2020,
     "questionNumber": 33,
     "question": "What is the unit used for measurement camera image resolution?",
-    "options": [
-      "Megabyte",
-      "Terabyte",
-      "Terapixels",
-      "Megapixels"
-    ],
+    "options": ["Megabyte", "Terabyte", "Terapixels", "Megapixels"],
     "correctOption": 4,
     "correctAnswer": "Megapixels",
     "imageRequired": true,
-    "image" : "./images/2020/q33.png",
+    "image": "./images/2020/q33.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_2020_Question-Paper.pdf",
@@ -686,7 +581,7 @@
     "correctOption": 3,
     "correctAnswer": "Reverse Tredelenburg position",
     "imageRequired": true,
-    "image" : "./images/2020/q36.png",
+    "image": "./images/2020/q36.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_2020_Question-Paper.pdf",
@@ -716,12 +611,7 @@
     "year": 2020,
     "questionNumber": 38,
     "question": "Identify the next number in the sequence. 1, 2, 4, 7, 11, _____",
-    "options": [
-      "14",
-      "16",
-      "12",
-      "10"
-    ],
+    "options": ["14", "16", "12", "10"],
     "correctOption": 2,
     "correctAnswer": "16",
     "imageRequired": false,
@@ -744,7 +634,7 @@
     "correctOption": 2,
     "correctAnswer": "Sims speculum",
     "imageRequired": true,
-    "image" : "./images/2020/q39.png",
+    "image": "./images/2020/q39.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_2020_Question-Paper.pdf",
@@ -764,7 +654,7 @@
     "correctOption": 2,
     "correctAnswer": "Renal calculi",
     "imageRequired": true,
-    "image" : "./images/2020/q40.png",
+    "image": "./images/2020/q40.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_2020_Question-Paper.pdf",
@@ -813,12 +703,7 @@
     "year": 2020,
     "questionNumber": 43,
     "question": "Which drug decrease the threshold of seizures?",
-    "options": [
-      "Lithium",
-      "Anticonvulsants",
-      "Benzodiazepine",
-      "barbiturate"
-    ],
+    "options": ["Lithium", "Anticonvulsants", "Benzodiazepine", "barbiturate"],
     "correctOption": 2,
     "correctAnswer": "Anticonvulsants",
     "imageRequired": false,
@@ -908,12 +793,7 @@
     "year": 2020,
     "questionNumber": 48,
     "question": "Which of the following drug administration during post operative period will cause nausea and vomiting?",
-    "options": [
-      "Diclofenac",
-      "Peracetamol",
-      "Tramadol",
-      "Ondansetron"
-    ],
+    "options": ["Diclofenac", "Peracetamol", "Tramadol", "Ondansetron"],
     "correctOption": 4,
     "correctAnswer": "Ondansetron",
     "imageRequired": false,
@@ -984,12 +864,7 @@
     "year": 2020,
     "questionNumber": 52,
     "question": "Murphy sign seen in which disorder?",
-    "options": [
-      "Appendicitis",
-      "Cystitis",
-      "Cholecystitis",
-      "Renal stone"
-    ],
+    "options": ["Appendicitis", "Cystitis", "Cholecystitis", "Renal stone"],
     "correctOption": 3,
     "correctAnswer": "Cholecystitis",
     "imageRequired": false,
@@ -1022,12 +897,7 @@
     "year": 2020,
     "questionNumber": 54,
     "question": "Safest exercise advised to pregnant mother?",
-    "options": [
-      "Cycling",
-      "Swimming",
-      "Football",
-      "Racing"
-    ],
+    "options": ["Cycling", "Swimming", "Football", "Racing"],
     "correctOption": 2,
     "correctAnswer": "Swimming",
     "imageRequired": false,
@@ -1041,12 +911,7 @@
     "year": 2020,
     "questionNumber": 55,
     "question": "Name of the scale for measuring symptoms severity of patients with schizophrenia?",
-    "options": [
-      "NRS",
-      "PANSS",
-      "VAS",
-      "FLACC"
-    ],
+    "options": ["NRS", "PANSS", "VAS", "FLACC"],
     "correctOption": 2,
     "correctAnswer": "PANSS",
     "imageRequired": false,
@@ -1060,12 +925,7 @@
     "year": 2020,
     "questionNumber": 56,
     "question": "Vaccum suction pressure in adult is?",
-    "options": [
-      "120 mmHg",
-      "170 mmHg",
-      "80 mmHg",
-      "60 mmHg"
-    ],
+    "options": ["120 mmHg", "170 mmHg", "80 mmHg", "60 mmHg"],
     "correctOption": 1,
     "correctAnswer": "120 mmHg",
     "imageRequired": false,
@@ -1098,16 +958,11 @@
     "year": 2020,
     "questionNumber": 58,
     "question": "Identify the image of MRI scan for which body organ?",
-    "options": [
-      "Abdomen",
-      "face",
-      "head",
-      "Pelvis"
-    ],
+    "options": ["Abdomen", "face", "head", "Pelvis"],
     "correctOption": 2,
     "correctAnswer": "face",
     "imageRequired": true,
-    "image" : "./images/2020/q58.png",
+    "image": "./images/2020/q58.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_2020_Question-Paper.pdf",
@@ -1137,12 +992,7 @@
     "year": 2020,
     "questionNumber": 60,
     "question": "which of the following is NOT related to MMR vaccine?",
-    "options": [
-      "Rubella",
-      "Measles",
-      "Rickets",
-      "Mumps"
-    ],
+    "options": ["Rubella", "Measles", "Rickets", "Mumps"],
     "correctOption": 3,
     "correctAnswer": "Rickets",
     "imageRequired": false,
@@ -1213,12 +1063,7 @@
     "year": 2020,
     "questionNumber": 64,
     "question": "India is having rupees at the same way united states currency?",
-    "options": [
-      "Euro",
-      "Dollar",
-      "Taka",
-      "Pound"
-    ],
+    "options": ["Euro", "Dollar", "Taka", "Pound"],
     "correctOption": 2,
     "correctAnswer": "Dollar",
     "imageRequired": false,
@@ -1251,12 +1096,7 @@
     "year": 2020,
     "questionNumber": 66,
     "question": "Type I hypersensitivity is mediated by",
-    "options": [
-      "IgG",
-      "IgE",
-      "IgM",
-      "IgA"
-    ],
+    "options": ["IgG", "IgE", "IgM", "IgA"],
     "correctOption": 2,
     "correctAnswer": "IgE",
     "imageRequired": false,
@@ -1289,12 +1129,7 @@
     "year": 2020,
     "questionNumber": 68,
     "question": "Who is considered as the father of sociology?",
-    "options": [
-      "Auguste Comte",
-      "Maclver",
-      "Emile Durkheim",
-      "Kingsley Davis"
-    ],
+    "options": ["Auguste Comte", "Maclver", "Emile Durkheim", "Kingsley Davis"],
     "correctOption": 1,
     "correctAnswer": "Auguste Comte",
     "imageRequired": false,
@@ -1308,12 +1143,7 @@
     "year": 2020,
     "questionNumber": 69,
     "question": "Following death, the subjective response surviving experienced by the loved ones is called:",
-    "options": [
-      "Bereavement",
-      "Mourning",
-      "Compliance",
-      "Grief"
-    ],
+    "options": ["Bereavement", "Mourning", "Compliance", "Grief"],
     "correctOption": 4,
     "correctAnswer": "Grief",
     "imageRequired": false,
@@ -1327,12 +1157,7 @@
     "year": 2020,
     "questionNumber": 70,
     "question": "Chemical formula for water?",
-    "options": [
-      "H2O",
-      "N2O",
-      "CO2",
-      "HO2"
-    ],
+    "options": ["H2O", "N2O", "CO2", "HO2"],
     "correctOption": 1,
     "correctAnswer": "H2O",
     "imageRequired": false,
@@ -1384,12 +1209,7 @@
     "year": 2020,
     "questionNumber": 73,
     "question": "Gloves paper box waste discarded in which colour of bag?",
-    "options": [
-      "Yellow",
-      "Red",
-      "Black",
-      "Blue"
-    ],
+    "options": ["Yellow", "Red", "Black", "Blue"],
     "correctOption": 3,
     "correctAnswer": "Black",
     "imageRequired": false,
@@ -1403,12 +1223,7 @@
     "year": 2020,
     "questionNumber": 74,
     "question": "Obstructed labour also known as?",
-    "options": [
-      "Atocia",
-      "Dystocia",
-      "Precipited labour",
-      "Prolonged labour"
-    ],
+    "options": ["Atocia", "Dystocia", "Precipited labour", "Prolonged labour"],
     "correctOption": 2,
     "correctAnswer": "Dystocia",
     "imageRequired": false,
@@ -1431,7 +1246,7 @@
     "correctOption": 1,
     "correctAnswer": "Episiotomy scissors",
     "imageRequired": true,
-    "image" : "./images/2020/q75.png",
+    "image": "./images/2020/q75.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_2020_Question-Paper.pdf",
@@ -1442,16 +1257,11 @@
     "year": 2020,
     "questionNumber": 76,
     "question": "Image in identify use of white colour pipe line?",
-    "options": [
-      "Suction",
-      "Oxygen",
-      "Nitrous oxide",
-      "Nitrogen"
-    ],
+    "options": ["Suction", "Oxygen", "Nitrous oxide", "Nitrogen"],
     "correctOption": 2,
     "correctAnswer": "Oxygen",
     "imageRequired": true,
-    "image" : "./images/2020/q76.png",
+    "image": "./images/2020/q76.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_2020_Question-Paper.pdf",
@@ -1519,16 +1329,11 @@
     "year": 2020,
     "questionNumber": 80,
     "question": "Identify image to give answer?",
-    "options": [
-      "Feeding bag",
-      "TPN bag",
-      "IV bag",
-      "Urine bag"
-    ],
+    "options": ["Feeding bag", "TPN bag", "IV bag", "Urine bag"],
     "correctOption": 1,
     "correctAnswer": "Feeding bag",
     "imageRequired": true,
-    "image" : "./images/2020/q80.png",
+    "image": "./images/2020/q80.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_2020_Question-Paper.pdf",
@@ -1539,16 +1344,11 @@
     "year": 2020,
     "questionNumber": 81,
     "question": "Choose which of these is the net of a cube?",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
+    "options": ["1", "2", "3", "4"],
     "correctOption": 3,
     "correctAnswer": "3",
     "imageRequired": true,
-    "image" : "./images/2020/q81.png",
+    "image": "./images/2020/q81.png",
     "sourceType": "previous_year",
     "needsReview": true,
     "sourceFile": "AIIMS_NORCET_2020_Question-Paper.pdf",
@@ -1578,12 +1378,7 @@
     "year": 2020,
     "questionNumber": 83,
     "question": "ASHA in \"A\" stands for?",
-    "options": [
-      "Accredited",
-      "Actor",
-      "Accesary",
-      "Automised"
-    ],
+    "options": ["Accredited", "Actor", "Accesary", "Automised"],
     "correctOption": 1,
     "correctAnswer": "Accredited",
     "imageRequired": false,
@@ -1625,7 +1420,7 @@
     "correctOption": 4,
     "correctAnswer": "ETCO2 detector",
     "imageRequired": true,
-    "image" : "./images/2020/q85.png",
+    "image": "./images/2020/q85.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_2020_Question-Paper.pdf",
@@ -1636,12 +1431,7 @@
     "year": 2020,
     "questionNumber": 86,
     "question": "If your sister is half your age, in 10 years she will be 3/4th of your age, what is her present age?",
-    "options": [
-      "5 year",
-      "10 year",
-      "15 year",
-      "20 year"
-    ],
+    "options": ["5 year", "10 year", "15 year", "20 year"],
     "correctOption": 1,
     "correctAnswer": "5 year",
     "imageRequired": false,
@@ -1655,12 +1445,7 @@
     "year": 2020,
     "questionNumber": 87,
     "question": "The activity not recorded by pulse oximeter?",
-    "options": [
-      "Pulse",
-      "Oxygen",
-      "ECG changes",
-      "SpO2%"
-    ],
+    "options": ["Pulse", "Oxygen", "ECG changes", "SpO2%"],
     "correctOption": 3,
     "correctAnswer": "ECG changes",
     "imageRequired": false,
@@ -1693,12 +1478,7 @@
     "year": 2020,
     "questionNumber": 89,
     "question": "Folic acid richest sources?",
-    "options": [
-      "Milk",
-      "Meat",
-      "Green leafy vegetables",
-      "Banana"
-    ],
+    "options": ["Milk", "Meat", "Green leafy vegetables", "Banana"],
     "correctOption": 3,
     "correctAnswer": "Green leafy vegetables",
     "imageRequired": false,
@@ -1712,12 +1492,7 @@
     "year": 2020,
     "questionNumber": 90,
     "question": "A patient is very restless while receiving IV fluids to treat dehydration. The IV catheter has slipped out of the vein and fluid is delivered to the surrounding tissues under the skin, cousing swelling. Which term best describes this occurance?",
-    "options": [
-      "Infection",
-      "Fluid overload",
-      "Infiltration",
-      "Extravasation"
-    ],
+    "options": ["Infection", "Fluid overload", "Infiltration", "Extravasation"],
     "correctOption": 3,
     "correctAnswer": "Infiltration",
     "imageRequired": false,
@@ -1750,12 +1525,7 @@
     "year": 2020,
     "questionNumber": 92,
     "question": "What is possible complication if patient complain pain, redness, tenderness and warmth on IV site?",
-    "options": [
-      "Infitration",
-      "Phlebitis",
-      "Extravasation",
-      "Hematoma"
-    ],
+    "options": ["Infitration", "Phlebitis", "Extravasation", "Hematoma"],
     "correctOption": 2,
     "correctAnswer": "Phlebitis",
     "imageRequired": false,
@@ -1788,12 +1558,7 @@
     "year": 2020,
     "questionNumber": 94,
     "question": "The length of ryles tube (nasogastric tube)?",
-    "options": [
-      "70 cm",
-      "90 cm",
-      "105 cm",
-      "140 cm"
-    ],
+    "options": ["70 cm", "90 cm", "105 cm", "140 cm"],
     "correctOption": 3,
     "correctAnswer": "105 cm",
     "imageRequired": false,
@@ -1816,7 +1581,7 @@
     "correctOption": 2,
     "correctAnswer": "Transtibial amputation",
     "imageRequired": true,
-    "image" : "./images/2020/q95.png",
+    "image": "./images/2020/q95.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_2020_Question-Paper.pdf",
@@ -1827,12 +1592,7 @@
     "year": 2020,
     "questionNumber": 96,
     "question": "The purpose of nominal scale?",
-    "options": [
-      "Ratio",
-      "Range",
-      "Mean",
-      "Median"
-    ],
+    "options": ["Ratio", "Range", "Mean", "Median"],
     "correctOption": 2,
     "correctAnswer": "Range",
     "imageRequired": false,
@@ -1865,12 +1625,7 @@
     "year": 2020,
     "questionNumber": 98,
     "question": "The psychiatric client getting the antipsychotic drugs, and the client getting the symptoms of agitation, feeling of restlessness, dysphoria, and difficulty in sleeping, the group of this adverse effect is called as?",
-    "options": [
-      "Akathesia",
-      "Tardive dyskinesia",
-      "Shakiness",
-      "Dyskinesia"
-    ],
+    "options": ["Akathesia", "Tardive dyskinesia", "Shakiness", "Dyskinesia"],
     "correctOption": 1,
     "correctAnswer": "Akathesia",
     "imageRequired": false,
@@ -1903,16 +1658,11 @@
     "year": 2020,
     "questionNumber": 100,
     "question": "Choice the correct option?",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
+    "options": ["1", "2", "3", "4"],
     "correctOption": 3,
     "correctAnswer": "3",
     "imageRequired": true,
-    "image" : "./images/2020/q100.png",
+    "image": "./images/2020/q100.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_2020_Question-Paper.pdf",
@@ -1932,7 +1682,7 @@
     "correctOption": 2,
     "correctAnswer": "HME filter",
     "imageRequired": true,
-    "image" : "./images/2020/q101.png",
+    "image": "./images/2020/q101.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_2020_Question-Paper.pdf",
@@ -2000,12 +1750,7 @@
     "year": 2020,
     "questionNumber": 105,
     "question": "A pregnant client asks the nurse in the clinic when she will be able to begin feel the fetus move. The nurse responds by telling the mother that fetal movements will be noted between which weeks of gestation ?",
-    "options": [
-      "6 & 8",
-      "8 & 10",
-      "10 & 12",
-      "14 & 18"
-    ],
+    "options": ["6 & 8", "8 & 10", "10 & 12", "14 & 18"],
     "correctOption": 4,
     "correctAnswer": "14 & 18",
     "imageRequired": false,
@@ -2095,12 +1840,7 @@
     "year": 2020,
     "questionNumber": 110,
     "question": "Amphetamine used in ADHD for long term than cause ?",
-    "options": [
-      "confusion",
-      "Increased appetite",
-      "Mania",
-      "Hypothermia"
-    ],
+    "options": ["confusion", "Increased appetite", "Mania", "Hypothermia"],
     "correctOption": 1,
     "correctAnswer": "confusion",
     "imageRequired": false,
@@ -2133,12 +1873,7 @@
     "year": 2020,
     "questionNumber": 112,
     "question": "In placenta previa and bleeding of gastation investigation of choice ?",
-    "options": [
-      "Perform USG",
-      "CT scan",
-      "MRI",
-      "Pelvic X-ray"
-    ],
+    "options": ["Perform USG", "CT scan", "MRI", "Pelvic X-ray"],
     "correctOption": 1,
     "correctAnswer": "Perform USG",
     "imageRequired": false,
@@ -2209,12 +1944,7 @@
     "year": 2020,
     "questionNumber": 116,
     "question": "Your are preparing to give potassium chloride 30 meq in 1000 ml of normal saline over 10 hours. The medication label reads 40 meq per 20 ml. how many milliliters of potassium chloride do you need to administer the correct dose ?",
-    "options": [
-      "10 ml",
-      "15 ml",
-      "20 ml",
-      "50 ml"
-    ],
+    "options": ["10 ml", "15 ml", "20 ml", "50 ml"],
     "correctOption": 2,
     "correctAnswer": "15 ml",
     "imageRequired": false,
@@ -2228,12 +1958,7 @@
     "year": 2020,
     "questionNumber": 117,
     "question": "Early indicator of hypoxia in unconscious client ?",
-    "options": [
-      "Restlessness",
-      "Cynosis",
-      "Tachycardia",
-      "Hypertension"
-    ],
+    "options": ["Restlessness", "Cynosis", "Tachycardia", "Hypertension"],
     "correctOption": 1,
     "correctAnswer": "Restlessness",
     "imageRequired": false,
@@ -2285,12 +2010,7 @@
     "year": 2020,
     "questionNumber": 120,
     "question": "Creatinine kinase raise in MI within",
-    "options": [
-      "12-14 hrs",
-      "4-6 hrs",
-      "6-21 hrs",
-      "10-14 hrs"
-    ],
+    "options": ["12-14 hrs", "4-6 hrs", "6-21 hrs", "10-14 hrs"],
     "correctOption": 2,
     "correctAnswer": "4-6 hrs",
     "imageRequired": false,
@@ -2323,12 +2043,7 @@
     "year": 2020,
     "questionNumber": 122,
     "question": "Chemical formula of water ?",
-    "options": [
-      "H2O",
-      "HO2",
-      "COOH",
-      "CO2"
-    ],
+    "options": ["H2O", "HO2", "COOH", "CO2"],
     "correctOption": 1,
     "correctAnswer": "H2O",
     "imageRequired": false,
@@ -2380,12 +2095,7 @@
     "year": 2020,
     "questionNumber": 125,
     "question": "What is the permanent method of sterilization in male ?",
-    "options": [
-      "Vasectomy",
-      "Tubectomy",
-      "Barrier method",
-      "Hystrectomy"
-    ],
+    "options": ["Vasectomy", "Tubectomy", "Barrier method", "Hystrectomy"],
     "correctOption": 1,
     "correctAnswer": "Vasectomy",
     "imageRequired": false,
@@ -2399,12 +2109,7 @@
     "year": 2021,
     "questionNumber": 1,
     "question": "Maximum time of hand hygiene",
-    "options": [
-      "90 Seconds",
-      "20-30 Seconds",
-      "1 Minute",
-      "2 Minutes"
-    ],
+    "options": ["90 Seconds", "20-30 Seconds", "1 Minute", "2 Minutes"],
     "correctOption": 2,
     "correctAnswer": "20-30 Seconds",
     "imageRequired": false,
@@ -2418,12 +2123,7 @@
     "year": 2021,
     "questionNumber": 2,
     "question": "Maximum & minimum score of GCS are:",
-    "options": [
-      "8-9",
-      "8-12",
-      "12-13",
-      "3-15"
-    ],
+    "options": ["8-9", "8-12", "12-13", "3-15"],
     "correctOption": 4,
     "correctAnswer": "3-15",
     "imageRequired": false,
@@ -2456,12 +2156,7 @@
     "year": 2021,
     "questionNumber": 4,
     "question": "Needle gauge preferred with Blood Transfusion is",
-    "options": [
-      "16 G",
-      "18 G",
-      "20 G",
-      "22 G"
-    ],
+    "options": ["16 G", "18 G", "20 G", "22 G"],
     "correctOption": 2,
     "correctAnswer": "18 G",
     "imageRequired": false,
@@ -2494,12 +2189,7 @@
     "year": 2021,
     "questionNumber": 6,
     "question": "Neonates compression ventilation ratio",
-    "options": [
-      "1:1",
-      "1:2",
-      "1:3",
-      "1:4"
-    ],
+    "options": ["1:1", "1:2", "1:3", "1:4"],
     "correctOption": 3,
     "correctAnswer": "1:3",
     "imageRequired": false,
@@ -2522,7 +2212,7 @@
     "correctOption": 4,
     "correctAnswer": "Denver retractor",
     "imageRequired": true,
-    "image" : "./images/2021/q7.png",
+    "image": "./images/2021/q7.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "myeducation-wire-norcet-question-papers-2021.pdf",
@@ -2533,12 +2223,7 @@
     "year": 2021,
     "questionNumber": 8,
     "question": "Percentage of burnt perineum is ?",
-    "options": [
-      "3-13 Percent",
-      "9 Percent",
-      "18 Percent",
-      "4.5 Percent"
-    ],
+    "options": ["3-13 Percent", "9 Percent", "18 Percent", "4.5 Percent"],
     "correctOption": 1,
     "correctAnswer": "3-13 Percent",
     "imageRequired": false,
@@ -2552,12 +2237,7 @@
     "year": 2021,
     "questionNumber": 9,
     "question": "Which disease not includes in Mission Indradhanush?",
-    "options": [
-      "Tetanus",
-      "Diphtheria",
-      "Pneumonia",
-      "Whooping cough A"
-    ],
+    "options": ["Tetanus", "Diphtheria", "Pneumonia", "Whooping cough A"],
     "correctOption": 3,
     "correctAnswer": "Pneumonia",
     "imageRequired": false,
@@ -2571,12 +2251,7 @@
     "year": 2021,
     "questionNumber": 10,
     "question": "Birth weight quadruple by ?",
-    "options": [
-      "5 Months",
-      "1 Year",
-      "18 Months",
-      "2 Years"
-    ],
+    "options": ["5 Months", "1 Year", "18 Months", "2 Years"],
     "correctOption": 4,
     "correctAnswer": "2 Years",
     "imageRequired": false,
@@ -2590,12 +2265,7 @@
     "year": 2021,
     "questionNumber": 11,
     "question": "Height of neonate doubles by ?",
-    "options": [
-      "4 Years",
-      "3 Years",
-      "2 Years",
-      "1 Years"
-    ],
+    "options": ["4 Years", "3 Years", "2 Years", "1 Years"],
     "correctOption": 1,
     "correctAnswer": "4 Years",
     "imageRequired": false,
@@ -2609,12 +2279,7 @@
     "year": 2021,
     "questionNumber": 12,
     "question": "SSPE is complication of which disease?",
-    "options": [
-      "Whooping cough",
-      "Measles",
-      "Meningitis",
-      "Tetanus"
-    ],
+    "options": ["Whooping cough", "Measles", "Meningitis", "Tetanus"],
     "correctOption": 2,
     "correctAnswer": "Measles",
     "imageRequired": false,
@@ -2628,12 +2293,7 @@
     "year": 2021,
     "questionNumber": 13,
     "question": "The term decrease number of RBC is",
-    "options": [
-      "Anaemia",
-      "Pancytopenia",
-      "Leukemia",
-      "Thrombocytopenia"
-    ],
+    "options": ["Anaemia", "Pancytopenia", "Leukemia", "Thrombocytopenia"],
     "correctOption": 1,
     "correctAnswer": "Anaemia",
     "imageRequired": false,
@@ -2666,12 +2326,7 @@
     "year": 2021,
     "questionNumber": 15,
     "question": "Which antiepileptic given by intranasal Route?",
-    "options": [
-      "Midazolam",
-      "Diazepam",
-      "Clobazam",
-      "Nitrazepam"
-    ],
+    "options": ["Midazolam", "Diazepam", "Clobazam", "Nitrazepam"],
     "correctOption": 1,
     "correctAnswer": "Midazolam",
     "imageRequired": false,
@@ -2704,12 +2359,7 @@
     "year": 2021,
     "questionNumber": 17,
     "question": "Intramuscular injection angle is",
-    "options": [
-      "15 Degree",
-      "25 Degree",
-      "45 Degree",
-      "90 Degree"
-    ],
+    "options": ["15 Degree", "25 Degree", "45 Degree", "90 Degree"],
     "correctOption": 4,
     "correctAnswer": "90 Degree",
     "imageRequired": false,
@@ -2723,12 +2373,7 @@
     "year": 2021,
     "questionNumber": 18,
     "question": "Which congenital cardiac defect does not cause heart failure?",
-    "options": [
-      "ASD",
-      "VSD",
-      "TGA",
-      "PDA"
-    ],
+    "options": ["ASD", "VSD", "TGA", "PDA"],
     "correctOption": 3,
     "correctAnswer": "TGA",
     "imageRequired": false,
@@ -2761,12 +2406,7 @@
     "year": 2021,
     "questionNumber": 20,
     "question": "Iron dextran given by which route",
-    "options": [
-      "Intravenous",
-      "Intramuscular",
-      "Intraosseous",
-      "Intradermal"
-    ],
+    "options": ["Intravenous", "Intramuscular", "Intraosseous", "Intradermal"],
     "correctOption": 2,
     "correctAnswer": "Intramuscular",
     "imageRequired": false,
@@ -2856,12 +2496,7 @@
     "year": 2021,
     "questionNumber": 25,
     "question": "Most common type of episiotomy",
-    "options": [
-      "Median",
-      "Mediolateral",
-      "J-shaped",
-      "Lateral"
-    ],
+    "options": ["Median", "Mediolateral", "J-shaped", "Lateral"],
     "correctOption": 2,
     "correctAnswer": "Mediolateral",
     "imageRequired": false,
@@ -2875,12 +2510,7 @@
     "year": 2021,
     "questionNumber": 26,
     "question": "In which Episiotomy tear anal sphincter is intact",
-    "options": [
-      "1st degree",
-      "2nd degree",
-      "3rd degree",
-      "4th degree"
-    ],
+    "options": ["1st degree", "2nd degree", "3rd degree", "4th degree"],
     "correctOption": 2,
     "correctAnswer": "2nd degree",
     "imageRequired": false,
@@ -2913,12 +2543,7 @@
     "year": 2021,
     "questionNumber": 28,
     "question": "Exclusive breastfeeding is upto ?",
-    "options": [
-      "1 Year",
-      "2 Years",
-      "6 Months",
-      "4 Months"
-    ],
+    "options": ["1 Year", "2 Years", "6 Months", "4 Months"],
     "correctOption": 3,
     "correctAnswer": "6 Months",
     "imageRequired": false,
@@ -2951,12 +2576,7 @@
     "year": 2021,
     "questionNumber": 30,
     "question": "I.V. cannula size for rapid IV infusion",
-    "options": [
-      "16 G",
-      "18 G",
-      "20 G",
-      "22 G"
-    ],
+    "options": ["16 G", "18 G", "20 G", "22 G"],
     "correctOption": 1,
     "correctAnswer": "16 G",
     "imageRequired": false,
@@ -2970,12 +2590,7 @@
     "year": 2021,
     "questionNumber": 31,
     "question": "Which is not include in triage system?",
-    "options": [
-      "Red",
-      "Yellow",
-      "Green",
-      "Blue"
-    ],
+    "options": ["Red", "Yellow", "Green", "Blue"],
     "correctOption": 4,
     "correctAnswer": "Blue",
     "imageRequired": false,
@@ -3027,12 +2642,7 @@
     "year": 2021,
     "questionNumber": 34,
     "question": "Convert 38.6°C to F°?",
-    "options": [
-      "98.6",
-      "102.2",
-      "101.48",
-      "103.82"
-    ],
+    "options": ["98.6", "102.2", "101.48", "103.82"],
     "correctOption": 3,
     "correctAnswer": "101.48",
     "imageRequired": false,
@@ -3046,12 +2656,7 @@
     "year": 2021,
     "questionNumber": 35,
     "question": "Sodium Concentration in plasma ?",
-    "options": [
-      "110mEq/L",
-      "130mEq/L",
-      "150mEq/L",
-      "170mEq/L"
-    ],
+    "options": ["110mEq/L", "130mEq/L", "150mEq/L", "170mEq/L"],
     "correctOption": 2,
     "correctAnswer": "130mEq/L",
     "imageRequired": false,
@@ -3065,12 +2670,7 @@
     "year": 2021,
     "questionNumber": 36,
     "question": "In laparoscopy gas used is ?",
-    "options": [
-      "CO",
-      "N O 2 2",
-      "O",
-      "Heliox 2"
-    ],
+    "options": ["CO", "N O 2 2", "O", "Heliox 2"],
     "correctOption": 1,
     "correctAnswer": "CO",
     "imageRequired": false,
@@ -3103,12 +2703,7 @@
     "year": 2021,
     "questionNumber": 38,
     "question": "Normal urine output in 24 hour?",
-    "options": [
-      "300 ml",
-      "500 ml",
-      "2.5 Liter",
-      "1.5 Liter"
-    ],
+    "options": ["300 ml", "500 ml", "2.5 Liter", "1.5 Liter"],
     "correctOption": 4,
     "correctAnswer": "1.5 Liter",
     "imageRequired": false,
@@ -3122,12 +2717,7 @@
     "year": 2021,
     "questionNumber": 39,
     "question": "Longest bone in Human body?",
-    "options": [
-      "Humerus",
-      "Femur",
-      "Tibia",
-      "Radius"
-    ],
+    "options": ["Humerus", "Femur", "Tibia", "Radius"],
     "correctOption": 2,
     "correctAnswer": "Femur",
     "imageRequired": false,
@@ -3179,12 +2769,7 @@
     "year": 2021,
     "questionNumber": 42,
     "question": "Placenta discard in which colored bag?",
-    "options": [
-      "Black Bag",
-      "Yellow Bag",
-      "Red Bag",
-      "Blue Bag"
-    ],
+    "options": ["Black Bag", "Yellow Bag", "Red Bag", "Blue Bag"],
     "correctOption": 2,
     "correctAnswer": "Yellow Bag",
     "imageRequired": false,
@@ -3369,12 +2954,7 @@
     "year": 2021,
     "questionNumber": 52,
     "question": "5th vital sign among the following is?",
-    "options": [
-      "Temperature",
-      "Blood Pressure",
-      "SpO2",
-      "Pain"
-    ],
+    "options": ["Temperature", "Blood Pressure", "SpO2", "Pain"],
     "correctOption": 4,
     "correctAnswer": "Pain",
     "imageRequired": false,
@@ -3397,7 +2977,7 @@
     "correctOption": 2,
     "correctAnswer": "Bipolar cautery pencil pencil",
     "imageRequired": true,
-    "image" : "./images/2021/q53.png",
+    "image": "./images/2021/q53.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "myeducation-wire-norcet-question-papers-2021.pdf",
@@ -3408,12 +2988,7 @@
     "year": 2021,
     "questionNumber": 54,
     "question": "Infected cotton with blood and other bodily waste should be discarded in?",
-    "options": [
-      "Red bag",
-      "Blue bag",
-      "Yellow bag",
-      "Black bag"
-    ],
+    "options": ["Red bag", "Blue bag", "Yellow bag", "Black bag"],
     "correctOption": 3,
     "correctAnswer": "Yellow bag",
     "imageRequired": false,
@@ -3427,12 +3002,7 @@
     "year": 2021,
     "questionNumber": 55,
     "question": "Which of the following is Universal blood donor?",
-    "options": [
-      "O-",
-      "AB+",
-      "O+",
-      "B+"
-    ],
+    "options": ["O-", "AB+", "O+", "B+"],
     "correctOption": 1,
     "correctAnswer": "O-",
     "imageRequired": false,
@@ -3446,12 +3016,7 @@
     "year": 2021,
     "questionNumber": 56,
     "question": "Describe Covid-19 from the following terms:",
-    "options": [
-      "Endemic",
-      "Sporadic",
-      "Epidemic",
-      "Pandemic"
-    ],
+    "options": ["Endemic", "Sporadic", "Epidemic", "Pandemic"],
     "correctOption": 4,
     "correctAnswer": "Pandemic",
     "imageRequired": false,
@@ -3484,12 +3049,7 @@
     "year": 2021,
     "questionNumber": 58,
     "question": "After rapid blood transfusion patient shows tetany indicates?",
-    "options": [
-      "Hypocalcemia",
-      "Hypercalcemia",
-      "Hypokalemia",
-      "Hyperkalemia"
-    ],
+    "options": ["Hypocalcemia", "Hypercalcemia", "Hypokalemia", "Hyperkalemia"],
     "correctOption": 1,
     "correctAnswer": "Hypocalcemia",
     "imageRequired": false,
@@ -3579,16 +3139,11 @@
     "year": 2021,
     "questionNumber": 63,
     "question": "Identify blade size?",
-    "options": [
-      "11",
-      "15",
-      "21",
-      "22"
-    ],
+    "options": ["11", "15", "21", "22"],
     "correctOption": 1,
     "correctAnswer": "11",
     "imageRequired": true,
-    "image" : "./images/2021/q63.png",
+    "image": "./images/2021/q63.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "myeducation-wire-norcet-question-papers-2021.pdf",
@@ -3599,12 +3154,7 @@
     "year": 2021,
     "questionNumber": 64,
     "question": "In placental attachment anchoreds placenta attached with mymetritim partial or complete?",
-    "options": [
-      "Increta",
-      "Accreta",
-      "Percreta",
-      "Battledore placenta"
-    ],
+    "options": ["Increta", "Accreta", "Percreta", "Battledore placenta"],
     "correctOption": 1,
     "correctAnswer": "Increta",
     "imageRequired": false,
@@ -3618,12 +3168,7 @@
     "year": 2021,
     "questionNumber": 65,
     "question": "Which of the following antitubercular drug causes peripheral neuropathy?",
-    "options": [
-      "Isoniazid",
-      "Pyrazinamide",
-      "Rifampicin",
-      "Dapsone"
-    ],
+    "options": ["Isoniazid", "Pyrazinamide", "Rifampicin", "Dapsone"],
     "correctOption": 1,
     "correctAnswer": "Isoniazid",
     "imageRequired": false,
@@ -3637,12 +3182,7 @@
     "year": 2021,
     "questionNumber": 66,
     "question": "For long term use of which of the following drug is frequent serum drug level monitoring is required?",
-    "options": [
-      "Amltryptyline",
-      "Haloperidol",
-      "Lithium",
-      "Lorazepam"
-    ],
+    "options": ["Amltryptyline", "Haloperidol", "Lithium", "Lorazepam"],
     "correctOption": 3,
     "correctAnswer": "Lithium",
     "imageRequired": false,
@@ -3675,12 +3215,7 @@
     "year": 2021,
     "questionNumber": 68,
     "question": "Child diagnosed with moderate dehydration is treat with ?",
-    "options": [
-      "5% dextrose",
-      "10% dextrose",
-      "25% dextrose",
-      "Normal saline"
-    ],
+    "options": ["5% dextrose", "10% dextrose", "25% dextrose", "Normal saline"],
     "correctOption": 4,
     "correctAnswer": "Normal saline",
     "imageRequired": false,
@@ -3694,12 +3229,7 @@
     "year": 2021,
     "questionNumber": 69,
     "question": "Patient in emergency department total burn 64% but genital area cover total TBSA%?",
-    "options": [
-      "9%",
-      "18%",
-      "1% 1",
-      "4 % 2"
-    ],
+    "options": ["9%", "18%", "1% 1", "4 % 2"],
     "correctOption": 3,
     "correctAnswer": "1% 1",
     "imageRequired": false,
@@ -3713,12 +3243,7 @@
     "year": 2021,
     "questionNumber": 70,
     "question": "Best method to assess malnutrition in adult?",
-    "options": [
-      "Hb level",
-      "Skin fold",
-      "MUAC",
-      "Chest circumference"
-    ],
+    "options": ["Hb level", "Skin fold", "MUAC", "Chest circumference"],
     "correctOption": 2,
     "correctAnswer": "Skin fold",
     "imageRequired": false,
@@ -3751,12 +3276,7 @@
     "year": 2021,
     "questionNumber": 72,
     "question": "Renal failure Symptom not common in renal failure?",
-    "options": [
-      "Hyperkalemia",
-      "Urine output",
-      "Hyponatrimia",
-      "Hypokalemia"
-    ],
+    "options": ["Hyperkalemia", "Urine output", "Hyponatrimia", "Hypokalemia"],
     "correctOption": 4,
     "correctAnswer": "Hypokalemia",
     "imageRequired": false,
@@ -3817,7 +3337,7 @@
     "correctOption": 2,
     "correctAnswer": "Laryngeal mask airway",
     "imageRequired": true,
-    "image" : "./images/2021/q75.png",
+    "image": "./images/2021/q75.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "myeducation-wire-norcet-question-papers-2021.pdf",
@@ -3847,12 +3367,7 @@
     "year": 2021,
     "questionNumber": 77,
     "question": "Which drug is used to treat PDA?",
-    "options": [
-      "Oxaceprol",
-      "Morphine",
-      "Dopamine",
-      "Indomethacin"
-    ],
+    "options": ["Oxaceprol", "Morphine", "Dopamine", "Indomethacin"],
     "correctOption": 4,
     "correctAnswer": "Indomethacin",
     "imageRequired": false,
@@ -3866,12 +3381,7 @@
     "year": 2021,
     "questionNumber": 78,
     "question": "Cannula size used in new-born baby is .",
-    "options": [
-      "24 size",
-      "22 size",
-      "20 size",
-      "18 size"
-    ],
+    "options": ["24 size", "22 size", "20 size", "18 size"],
     "correctOption": 1,
     "correctAnswer": "24 size",
     "imageRequired": false,
@@ -3904,12 +3414,7 @@
     "year": 2021,
     "questionNumber": 80,
     "question": "When does the anterior fontanelle close in the child?",
-    "options": [
-      "6-8 weeks",
-      "6-8 months",
-      "12-18 months",
-      "12-18 weeks"
-    ],
+    "options": ["6-8 weeks", "6-8 months", "12-18 months", "12-18 weeks"],
     "correctOption": 3,
     "correctAnswer": "12-18 months",
     "imageRequired": false,
@@ -4037,12 +3542,7 @@
     "year": 2021,
     "questionNumber": 87,
     "question": "Delivery of baby happens in which stage of labor?",
-    "options": [
-      "1st stage",
-      "2nd stage",
-      "3rd stage",
-      "4th stage"
-    ],
+    "options": ["1st stage", "2nd stage", "3rd stage", "4th stage"],
     "correctOption": 2,
     "correctAnswer": "2nd stage",
     "imageRequired": false,
@@ -4056,12 +3556,7 @@
     "year": 2021,
     "questionNumber": 88,
     "question": "Which immunoglobulin can cross the placenta and can provide passive immunity to the newborn?",
-    "options": [
-      "IgG",
-      "IgE",
-      "IgM",
-      "IgA"
-    ],
+    "options": ["IgG", "IgE", "IgM", "IgA"],
     "correctOption": 1,
     "correctAnswer": "IgG",
     "imageRequired": false,
@@ -4151,12 +3646,7 @@
     "year": 2021,
     "questionNumber": 93,
     "question": "Disparity in relation between the fetal head and maternal pelvis is called",
-    "options": [
-      "Contracted pelvis",
-      "Malposition",
-      "Unstable lie",
-      "CPD"
-    ],
+    "options": ["Contracted pelvis", "Malposition", "Unstable lie", "CPD"],
     "correctOption": 4,
     "correctAnswer": "CPD",
     "imageRequired": false,
@@ -4189,12 +3679,7 @@
     "year": 2021,
     "questionNumber": 95,
     "question": "The symptom that differentiates eclampsia from pre-eclampsia is:",
-    "options": [
-      "Hypertension",
-      "Seizures",
-      "Oidema",
-      "Stroke"
-    ],
+    "options": ["Hypertension", "Seizures", "Oidema", "Stroke"],
     "correctOption": 2,
     "correctAnswer": "Seizures",
     "imageRequired": false,
@@ -4208,12 +3693,7 @@
     "year": 2021,
     "questionNumber": 96,
     "question": "The most common cause of abortion in first trimester",
-    "options": [
-      "Chromosomal abnormality",
-      "Trauma",
-      "Maternal disease",
-      "RTI"
-    ],
+    "options": ["Chromosomal abnormality", "Trauma", "Maternal disease", "RTI"],
     "correctOption": 1,
     "correctAnswer": "Chromosomal abnormality",
     "imageRequired": false,
@@ -4227,12 +3707,7 @@
     "year": 2021,
     "questionNumber": 97,
     "question": "When a drug is to be given at bed time, which of the following coded instruction is used?",
-    "options": [
-      "sos",
-      "od",
-      "hs",
-      "ac"
-    ],
+    "options": ["sos", "od", "hs", "ac"],
     "correctOption": 3,
     "correctAnswer": "hs",
     "imageRequired": false,
@@ -4303,12 +3778,7 @@
     "year": 2021,
     "questionNumber": 101,
     "question": "Inability to produce semen in a man is called:",
-    "options": [
-      "Aspermia",
-      "Azoospermia",
-      "Asthenospermia",
-      "Tetrazoospermia"
-    ],
+    "options": ["Aspermia", "Azoospermia", "Asthenospermia", "Tetrazoospermia"],
     "correctOption": 1,
     "correctAnswer": "Aspermia",
     "imageRequired": false,
@@ -4569,12 +4039,7 @@
     "year": 2021,
     "questionNumber": 115,
     "question": "Which is the best test for detecting liver dysfunction?",
-    "options": [
-      "Serum albumin",
-      "Serum billrubin",
-      "SGPT",
-      "Prothombin time"
-    ],
+    "options": ["Serum albumin", "Serum billrubin", "SGPT", "Prothombin time"],
     "correctOption": 1,
     "correctAnswer": "Serum albumin",
     "imageRequired": false,
@@ -4664,12 +4129,7 @@
     "year": 2021,
     "questionNumber": 120,
     "question": "The nurse is caring for a male client with a diagnosis of chronic gastritis. The nurse monitors the client knowing that this client is at risk for which vitamin deficiency?",
-    "options": [
-      "Vitamin A",
-      "Vitamin B12",
-      "Vitamin C",
-      "Vitamin E"
-    ],
+    "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin E"],
     "correctOption": 2,
     "correctAnswer": "Vitamin B12",
     "imageRequired": false,
@@ -4702,12 +4162,7 @@
     "year": 2021,
     "questionNumber": 122,
     "question": "The immunoglobulin that is found in breast milk is:",
-    "options": [
-      "IgG",
-      "IgM",
-      "IgD",
-      "IgA"
-    ],
+    "options": ["IgG", "IgM", "IgD", "IgA"],
     "correctOption": 4,
     "correctAnswer": "IgA",
     "imageRequired": false,
@@ -4744,7 +4199,7 @@
       "less than 100 ml",
       "less than 400 ml",
       "less than 500 ml",
-      "less than 300 ml",
+      "less than 300 ml"
     ],
     "correctOption": 2,
     "correctAnswer": "less than 400 ml",
@@ -4759,12 +4214,7 @@
     "year": 2021,
     "questionNumber": 125,
     "question": "T-tube drainage is used after which surgery",
-    "options": [
-      "Lobectomy",
-      "Billroth",
-      "Cholecystectomy",
-      "Ileostomy"
-    ],
+    "options": ["Lobectomy", "Billroth", "Cholecystectomy", "Ileostomy"],
     "correctOption": 3,
     "correctAnswer": "Cholecystectomy",
     "imageRequired": false,
@@ -4797,12 +4247,7 @@
     "year": 2021,
     "questionNumber": 127,
     "question": "Presence of sugar in urine",
-    "options": [
-      "Oliguria",
-      "Glycosuria",
-      "Hematuria",
-      "Pyuria"
-    ],
+    "options": ["Oliguria", "Glycosuria", "Hematuria", "Pyuria"],
     "correctOption": 2,
     "correctAnswer": "Glycosuria",
     "imageRequired": false,
@@ -4816,12 +4261,7 @@
     "year": 2021,
     "questionNumber": 128,
     "question": "What is the drug of choice for Thalassemia?",
-    "options": [
-      "Vincristine",
-      "Vinblastine",
-      "Dilantin",
-      "Deferoxamine"
-    ],
+    "options": ["Vincristine", "Vinblastine", "Dilantin", "Deferoxamine"],
     "correctOption": 4,
     "correctAnswer": "Deferoxamine",
     "imageRequired": false,
@@ -4835,12 +4275,7 @@
     "year": 2021,
     "questionNumber": 129,
     "question": "Cancer found in connective tissue is:",
-    "options": [
-      "Carcinoma",
-      "Sarcoma",
-      "Leukemia",
-      "Metastasis"
-    ],
+    "options": ["Carcinoma", "Sarcoma", "Leukemia", "Metastasis"],
     "correctOption": 2,
     "correctAnswer": "Sarcoma",
     "imageRequired": false,
@@ -4873,12 +4308,7 @@
     "year": 2021,
     "questionNumber": 131,
     "question": "The percentage of population suffering from serious mental illness is?",
-    "options": [
-      "3%",
-      "1%",
-      "10%",
-      "5%"
-    ],
+    "options": ["3%", "1%", "10%", "5%"],
     "correctOption": 3,
     "correctAnswer": "10%",
     "imageRequired": false,
@@ -4911,12 +4341,7 @@
     "year": 2021,
     "questionNumber": 133,
     "question": "What is unnecessarily excessive fear of high places called?",
-    "options": [
-      "Agoraphobia",
-      "Acrophobia",
-      "Algophobia",
-      "Genophobia"
-    ],
+    "options": ["Agoraphobia", "Acrophobia", "Algophobia", "Genophobia"],
     "correctOption": 2,
     "correctAnswer": "Acrophobia",
     "imageRequired": false,
@@ -4930,12 +4355,7 @@
     "year": 2021,
     "questionNumber": 134,
     "question": "In which chapter of the Mental Health Act, there is a rule regarding the discharge of a mental patient from the hospital?",
-    "options": [
-      "Chapter-5",
-      "Chapter-6",
-      "Chapter-7",
-      "Chapter-8"
-    ],
+    "options": ["Chapter-5", "Chapter-6", "Chapter-7", "Chapter-8"],
     "correctOption": 1,
     "correctAnswer": "Chapter-5",
     "imageRequired": false,
@@ -4968,12 +4388,7 @@
     "year": 2021,
     "questionNumber": 136,
     "question": "Reversible dementia is seen in",
-    "options": [
-      "Wilson",
-      "Myxedema",
-      "Alzheimer's",
-      "Huntington disease"
-    ],
+    "options": ["Wilson", "Myxedema", "Alzheimer's", "Huntington disease"],
     "correctOption": 2,
     "correctAnswer": "Myxedema",
     "imageRequired": false,
@@ -5101,12 +4516,7 @@
     "year": 2021,
     "questionNumber": 143,
     "question": "Total lung capacity in a newborn is:",
-    "options": [
-      "100 mL",
-      "350 mL",
-      "500 mL",
-      "150 mL"
-    ],
+    "options": ["100 mL", "350 mL", "500 mL", "150 mL"],
     "correctOption": 4,
     "correctAnswer": "150 mL",
     "imageRequired": false,
@@ -5177,12 +4587,7 @@
     "year": 2021,
     "questionNumber": 147,
     "question": "Iron supplementation in a healthy term breast fed baby should be started at the age of",
-    "options": [
-      "2 weeks",
-      "4 weeks",
-      "8 weeks",
-      "6 weeks"
-    ],
+    "options": ["2 weeks", "4 weeks", "8 weeks", "6 weeks"],
     "correctOption": 4,
     "correctAnswer": "6 weeks",
     "imageRequired": false,
@@ -5215,12 +4620,7 @@
     "year": 2021,
     "questionNumber": 149,
     "question": "Size of suction catheter used in neonate for oral and nasal suction is",
-    "options": [
-      "8 Fr",
-      "12 Fr",
-      "14 Fr",
-      "16 Fr"
-    ],
+    "options": ["8 Fr", "12 Fr", "14 Fr", "16 Fr"],
     "correctOption": 1,
     "correctAnswer": "8 Fr",
     "imageRequired": false,
@@ -5234,12 +4634,7 @@
     "year": 2021,
     "questionNumber": 150,
     "question": "Best site to demonstrate capillary filling in infants ?",
-    "options": [
-      "Nail bed",
-      "Sternum",
-      "Ear lobule",
-      "Great toe"
-    ],
+    "options": ["Nail bed", "Sternum", "Ear lobule", "Great toe"],
     "correctOption": 1,
     "correctAnswer": "Nail bed",
     "imageRequired": false,
@@ -5253,12 +4648,7 @@
     "year": 2021,
     "questionNumber": 151,
     "question": "What is the most common and ideal pelvis?",
-    "options": [
-      "Android",
-      "Gynecoid",
-      "Platypelloid",
-      "Anthropoid"
-    ],
+    "options": ["Android", "Gynecoid", "Platypelloid", "Anthropoid"],
     "correctOption": 2,
     "correctAnswer": "Gynecoid",
     "imageRequired": false,
@@ -5272,12 +4662,7 @@
     "year": 2021,
     "questionNumber": 152,
     "question": "The feeling of the child's movement by the mother is called:",
-    "options": [
-      "Lightning",
-      "Engagement",
-      "Quickening",
-      "Ballottement"
-    ],
+    "options": ["Lightning", "Engagement", "Quickening", "Ballottement"],
     "correctOption": 3,
     "correctAnswer": "Quickening",
     "imageRequired": false,
@@ -5329,12 +4714,7 @@
     "year": 2021,
     "questionNumber": 155,
     "question": "At which of the following weeks of gestation does the uterus normally reach the level of the xiphisternum?",
-    "options": [
-      "32 weeks",
-      "36 weeks",
-      "40 weeks",
-      "42 weeks A"
-    ],
+    "options": ["32 weeks", "36 weeks", "40 weeks", "42 weeks A"],
     "correctOption": 2,
     "correctAnswer": "36 weeks",
     "imageRequired": false,
@@ -5367,12 +4747,7 @@
     "year": 2021,
     "questionNumber": 157,
     "question": "Which among the following hormone is secreted by pituitary gland?",
-    "options": [
-      "Calcitonin",
-      "Glucocorticoids",
-      "Glucagon",
-      "Prolactin"
-    ],
+    "options": ["Calcitonin", "Glucocorticoids", "Glucagon", "Prolactin"],
     "correctOption": 4,
     "correctAnswer": "Prolactin",
     "imageRequired": false,
@@ -5386,12 +4761,7 @@
     "year": 2021,
     "questionNumber": 158,
     "question": "At what stage of labor is Episiotomy usually done?",
-    "options": [
-      "First stage",
-      "Third stage",
-      "Fourth stage",
-      "Second stage"
-    ],
+    "options": ["First stage", "Third stage", "Fourth stage", "Second stage"],
     "correctOption": 4,
     "correctAnswer": "Second stage",
     "imageRequired": false,
@@ -5405,12 +4775,7 @@
     "year": 2021,
     "questionNumber": 159,
     "question": "Which hormone is necessary for the positive pregnancy test?",
-    "options": [
-      "Progesterone",
-      "hCG",
-      "Estrogen",
-      "Placental Lactogen"
-    ],
+    "options": ["Progesterone", "hCG", "Estrogen", "Placental Lactogen"],
     "correctOption": 2,
     "correctAnswer": "hCG",
     "imageRequired": false,
@@ -5519,12 +4884,7 @@
     "year": 2021,
     "questionNumber": 165,
     "question": "Which (Preparation) is given in the depth of the muscles by 'Z' technique?",
-    "options": [
-      "Zinc",
-      "Iron",
-      "Vitamin-C",
-      "Calcium"
-    ],
+    "options": ["Zinc", "Iron", "Vitamin-C", "Calcium"],
     "correctOption": 2,
     "correctAnswer": "Iron",
     "imageRequired": false,
@@ -5538,12 +4898,7 @@
     "year": 2021,
     "questionNumber": 166,
     "question": "Which of the following diseases is not caused by viruses? A",
-    "options": [
-      "Polio",
-      "Chicken pox",
-      "AIDS",
-      "TB"
-    ],
+    "options": ["Polio", "Chicken pox", "AIDS", "TB"],
     "correctOption": 4,
     "correctAnswer": "TB",
     "imageRequired": false,
@@ -5633,12 +4988,7 @@
     "year": 2021,
     "questionNumber": 171,
     "question": "Fat is stored in:",
-    "options": [
-      "Blood",
-      "Liver",
-      "Muscles",
-      "Adipose tissue"
-    ],
+    "options": ["Blood", "Liver", "Muscles", "Adipose tissue"],
     "correctOption": 4,
     "correctAnswer": "Adipose tissue",
     "imageRequired": false,
@@ -5652,12 +5002,7 @@
     "year": 2021,
     "questionNumber": 172,
     "question": "Orange is a major source of:",
-    "options": [
-      "Carbohydrates",
-      "Fats",
-      "Proteins",
-      "Vitamin- C"
-    ],
+    "options": ["Carbohydrates", "Fats", "Proteins", "Vitamin- C"],
     "correctOption": 4,
     "correctAnswer": "Vitamin- C",
     "imageRequired": false,
@@ -5671,12 +5016,7 @@
     "year": 2021,
     "questionNumber": 173,
     "question": "The smallest structural unit of a protein is:",
-    "options": [
-      "Amino Acid",
-      "Protease",
-      "Peptides",
-      "Peptones"
-    ],
+    "options": ["Amino Acid", "Protease", "Peptides", "Peptones"],
     "correctOption": 1,
     "correctAnswer": "Amino Acid",
     "imageRequired": false,
@@ -5690,12 +5030,7 @@
     "year": 2021,
     "questionNumber": 174,
     "question": "Which of the following is not a vitamin?",
-    "options": [
-      "Folic Acid",
-      "Lactic Acid",
-      "Nicotinic Acid",
-      "Ascorbic Acid"
-    ],
+    "options": ["Folic Acid", "Lactic Acid", "Nicotinic Acid", "Ascorbic Acid"],
     "correctOption": 2,
     "correctAnswer": "Lactic Acid",
     "imageRequired": false,
@@ -5823,12 +5158,7 @@
     "year": 2021,
     "questionNumber": 181,
     "question": "Which of the following state has largest forest area according to India State of Forest Report (ISFR), 2019?",
-    "options": [
-      "Madhya Pradesh",
-      "Nagaland",
-      "Karanataka",
-      "Maharashtra"
-    ],
+    "options": ["Madhya Pradesh", "Nagaland", "Karanataka", "Maharashtra"],
     "correctOption": 1,
     "correctAnswer": "Madhya Pradesh",
     "imageRequired": false,
@@ -5861,12 +5191,7 @@
     "year": 2021,
     "questionNumber": 183,
     "question": "The Varanasi Kanyakumari National Highway is .",
-    "options": [
-      "NH 15",
-      "NH 2",
-      "NH 7",
-      "NH 47"
-    ],
+    "options": ["NH 15", "NH 2", "NH 7", "NH 47"],
     "correctOption": 3,
     "correctAnswer": "NH 7",
     "imageRequired": false,
@@ -5918,12 +5243,7 @@
     "year": 2021,
     "questionNumber": 186,
     "question": "World “No Tobacco Day” was observed globally on",
-    "options": [
-      "31 May",
-      "2 June",
-      "15 June",
-      "20 June"
-    ],
+    "options": ["31 May", "2 June", "15 June", "20 June"],
     "correctOption": 1,
     "correctAnswer": "31 May",
     "imageRequired": false,
@@ -5975,12 +5295,7 @@
     "year": 2021,
     "questionNumber": 189,
     "question": "Who was the father of Tipu Sultan?",
-    "options": [
-      "Mir Qasim",
-      "Mir Jafar",
-      "Haider Ali",
-      "Shah Alam"
-    ],
+    "options": ["Mir Qasim", "Mir Jafar", "Haider Ali", "Shah Alam"],
     "correctOption": 3,
     "correctAnswer": "Haider Ali",
     "imageRequired": false,
@@ -5994,12 +5309,7 @@
     "year": 2021,
     "questionNumber": 190,
     "question": "Ammonia is a compound with the molecular formula of:",
-    "options": [
-      "N O",
-      "NaHCO 2 3",
-      "NaOH",
-      "NH 3"
-    ],
+    "options": ["N O", "NaHCO 2 3", "NaOH", "NH 3"],
     "correctOption": 4,
     "correctAnswer": "NH 3",
     "imageRequired": false,
@@ -6013,12 +5323,7 @@
     "year": 2021,
     "questionNumber": 191,
     "question": "Which of the following words will come second in the English dictionary?",
-    "options": [
-      "Magical",
-      "magnify",
-      "material",
-      "magnetic"
-    ],
+    "options": ["Magical", "magnify", "material", "magnetic"],
     "correctOption": 4,
     "correctAnswer": "magnetic",
     "imageRequired": false,
@@ -6032,16 +5337,11 @@
     "year": 2021,
     "questionNumber": 192,
     "question": "How many rectangles are there in the above figure?",
-    "options": [
-      "25",
-      "30",
-      "9",
-      "36"
-    ],
+    "options": ["25", "30", "9", "36"],
     "correctOption": 4,
     "correctAnswer": "36",
     "imageRequired": true,
-    "image" : "./images/2021/q192.png",
+    "image": "./images/2021/q192.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "myeducation-wire-norcet-question-papers-2021.pdf",
@@ -6052,16 +5352,11 @@
     "year": 2021,
     "questionNumber": 193,
     "question": "From the given answer figure, select the right one in which the question figure is hidden/embedded?",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
+    "options": ["A", "B", "C", "D"],
     "correctOption": 2,
     "correctAnswer": "B",
     "imageRequired": true,
-    "image" : "./images/2021/q193.png",
+    "image": "./images/2021/q193.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "myeducation-wire-norcet-question-papers-2021.pdf",
@@ -6072,12 +5367,7 @@
     "year": 2021,
     "questionNumber": 194,
     "question": "Select the related number from the given alternatives. LION : 40 :: TIGER : ?",
-    "options": [
-      "59",
-      "50",
-      "40",
-      "39"
-    ],
+    "options": ["59", "50", "40", "39"],
     "correctOption": 2,
     "correctAnswer": "50",
     "imageRequired": false,
@@ -6091,16 +5381,11 @@
     "year": 2021,
     "questionNumber": 195,
     "question": "Identify the diagram that best represents the relationship among the given classes. Male, Father, Doctor A",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
+    "options": ["A", "B", "C", "D"],
     "correctOption": 2,
     "correctAnswer": "B",
     "imageRequired": true,
-    "image" : "./images/2021/q195.png",
+    "image": "./images/2021/q195.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "myeducation-wire-norcet-question-papers-2021.pdf",
@@ -6111,12 +5396,7 @@
     "year": 2021,
     "questionNumber": 196,
     "question": "The length of the bridge, which a train 130 m long and traveling at 45 km/hr can cross in 30 sec is",
-    "options": [
-      "200 m",
-      "225 m",
-      "245 m",
-      "250 m"
-    ],
+    "options": ["200 m", "225 m", "245 m", "250 m"],
     "correctOption": 3,
     "correctAnswer": "245 m",
     "imageRequired": false,
@@ -6130,12 +5410,7 @@
     "year": 2021,
     "questionNumber": 197,
     "question": "What should come in place of question mark (?) in the following question (72 ÷ 6) of (15 - 3) = ? A",
-    "options": [
-      "156",
-      "72",
-      "144",
-      "196"
-    ],
+    "options": ["156", "72", "144", "196"],
     "correctOption": 3,
     "correctAnswer": "144",
     "imageRequired": false,
@@ -6149,12 +5424,7 @@
     "year": 2021,
     "questionNumber": 198,
     "question": "The ratio of ages of Aman and Harish is 2 : 3. After 1 year, the sum of their ages will be 12. Find the age of Harish.",
-    "options": [
-      "60",
-      "3",
-      "6",
-      "4"
-    ],
+    "options": ["60", "3", "6", "4"],
     "correctOption": 3,
     "correctAnswer": "6",
     "imageRequired": false,
@@ -6168,12 +5438,7 @@
     "year": 2021,
     "questionNumber": 199,
     "question": "27 men can complete the work of digging of a well in 20 days working 5-hours/day. The work starts. After 4 days, 12 men leave. To complete the digging with its schedule, the remaining men need to work, hours/day is:",
-    "options": [
-      "8",
-      "6",
-      "9",
-      "10"
-    ],
+    "options": ["8", "6", "9", "10"],
     "correctOption": 3,
     "correctAnswer": "9",
     "imageRequired": false,
@@ -6187,12 +5452,7 @@
     "year": 2021,
     "questionNumber": 200,
     "question": "Directions: What should come at the end in the following number series? 0, 2, 10, 30, 68",
-    "options": [
-      "125",
-      "130",
-      "135",
-      "140"
-    ],
+    "options": ["125", "130", "135", "140"],
     "correctOption": 2,
     "correctAnswer": "130",
     "imageRequired": false,
@@ -6206,12 +5466,7 @@
     "year": 2022,
     "questionNumber": 1,
     "question": "Which of this increases absorption of iron except",
-    "options": [
-      "Aamla",
-      "Citrus Fruit",
-      "Sprouts",
-      "Curd"
-    ],
+    "options": ["Aamla", "Citrus Fruit", "Sprouts", "Curd"],
     "correctOption": 4,
     "correctAnswer": "Curd",
     "imageRequired": false,
@@ -6253,7 +5508,7 @@
     "correctOption": 2,
     "correctAnswer": "Harmonic Scalpel",
     "imageRequired": true,
-    "image" : "./images/2022/q3.png",
+    "image": "./images/2022/q3.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_2022_Question-Paper.pdf",
@@ -6273,7 +5528,7 @@
     "correctOption": 3,
     "correctAnswer": "Foley catheter",
     "imageRequired": true,
-    "image" : "./images/2022/q4.png",
+    "image": "./images/2022/q4.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_2022_Question-Paper.pdf",
@@ -6293,7 +5548,7 @@
     "correctOption": 4,
     "correctAnswer": "Thyroidectomy",
     "imageRequired": true,
-    "image" : "./images/2022/q5.png",
+    "image": "./images/2022/q5.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_2022_Question-Paper.pdf",
@@ -6304,12 +5559,7 @@
     "year": 2022,
     "questionNumber": 6,
     "question": "The criteria for low birth weight baby",
-    "options": [
-      "2.5 kg",
-      "3 kg",
-      "1.5 kg",
-      "1 kg"
-    ],
+    "options": ["2.5 kg", "3 kg", "1.5 kg", "1 kg"],
     "correctOption": 1,
     "correctAnswer": "2.5 kg",
     "imageRequired": false,
@@ -6323,12 +5573,7 @@
     "year": 2022,
     "questionNumber": 7,
     "question": "Copper T 380 is effective for how many years as contraceptive?",
-    "options": [
-      "3 years",
-      "5 years",
-      "10 years",
-      "7 years"
-    ],
+    "options": ["3 years", "5 years", "10 years", "7 years"],
     "correctOption": 3,
     "correctAnswer": "10 years",
     "imageRequired": false,
@@ -6342,16 +5587,11 @@
     "year": 2022,
     "questionNumber": 8,
     "question": "Identify the blade size",
-    "options": [
-      "22",
-      "23",
-      "24",
-      "25"
-    ],
+    "options": ["22", "23", "24", "25"],
     "correctOption": 2,
     "correctAnswer": "23",
     "imageRequired": true,
-    "image" : "./images/2022/q8.png",
+    "image": "./images/2022/q8.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_2022_Question-Paper.pdf",
@@ -6371,7 +5611,7 @@
     "correctOption": 3,
     "correctAnswer": "Fetoscope",
     "imageRequired": true,
-    "image" : "./images/2022/q9.png",
+    "image": "./images/2022/q9.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_2022_Question-Paper.pdf",
@@ -6439,12 +5679,7 @@
     "year": 2022,
     "questionNumber": 13,
     "question": "Deficiency of which vitamin causes defective bone mineralization disorder called rickets?",
-    "options": [
-      "Vitamin A",
-      "Vitamin E",
-      "Vitamin B",
-      "Vitamin D"
-    ],
+    "options": ["Vitamin A", "Vitamin E", "Vitamin B", "Vitamin D"],
     "correctOption": 4,
     "correctAnswer": "Vitamin D",
     "imageRequired": false,
@@ -6458,12 +5693,7 @@
     "year": 2022,
     "questionNumber": 14,
     "question": "Wernicke's encephalopathy is caused by the deficiency of:",
-    "options": [
-      "Thiamine",
-      "Riboflavin",
-      "Vitamin-D",
-      "Vitamin-A"
-    ],
+    "options": ["Thiamine", "Riboflavin", "Vitamin-D", "Vitamin-A"],
     "correctOption": 1,
     "correctAnswer": "Thiamine",
     "imageRequired": false,
@@ -6477,12 +5707,7 @@
     "year": 2022,
     "questionNumber": 15,
     "question": "Which vitamin deficiency may cause night blindness?",
-    "options": [
-      "Vitamin K",
-      "Vitamin E",
-      "Vitamin C",
-      "Vitamin A"
-    ],
+    "options": ["Vitamin K", "Vitamin E", "Vitamin C", "Vitamin A"],
     "correctOption": 4,
     "correctAnswer": "Vitamin A",
     "imageRequired": false,
@@ -6496,12 +5721,7 @@
     "year": 2022,
     "questionNumber": 16,
     "question": "Which one of the following anti-tuberculosis drugs cannot be given during pregnancy?",
-    "options": [
-      "Rifampicin",
-      "Ethambutol",
-      "Streptomycin",
-      "Isoniazid"
-    ],
+    "options": ["Rifampicin", "Ethambutol", "Streptomycin", "Isoniazid"],
     "correctOption": 3,
     "correctAnswer": "Streptomycin",
     "imageRequired": false,
@@ -6610,12 +5830,7 @@
     "year": 2022,
     "questionNumber": 22,
     "question": "At what time is the insulin peak efficacy if nurse administered insulin at 9 am ?",
-    "options": [
-      "9:15 am",
-      "10:00 am",
-      "10:30 am",
-      "12:00 pm"
-    ],
+    "options": ["9:15 am", "10:00 am", "10:30 am", "12:00 pm"],
     "correctOption": 4,
     "correctAnswer": "12:00 pm",
     "imageRequired": false,
@@ -6629,12 +5844,7 @@
     "year": 2022,
     "questionNumber": 23,
     "question": "Infiltration cool and elevation portion at fluid state",
-    "options": [
-      "Transudate",
-      "Inflammation",
-      "Edema",
-      "Both A and B"
-    ],
+    "options": ["Transudate", "Inflammation", "Edema", "Both A and B"],
     "correctOption": 3,
     "correctAnswer": "Edema",
     "imageRequired": false,
@@ -6667,12 +5877,7 @@
     "year": 2022,
     "questionNumber": 25,
     "question": "What is the compression to ventilation ratio for an infant CPR",
-    "options": [
-      "3:1",
-      "3:2",
-      "2:2",
-      "3:3"
-    ],
+    "options": ["3:1", "3:2", "2:2", "3:3"],
     "correctOption": 3,
     "correctAnswer": "2:2",
     "imageRequired": false,
@@ -6705,16 +5910,11 @@
     "year": 2022,
     "questionNumber": 27,
     "question": "Identify the given image below",
-    "options": [
-      "Tenia corporis",
-      "Bed sore",
-      "Steam Burn",
-      "Flame burn"
-    ],
+    "options": ["Tenia corporis", "Bed sore", "Steam Burn", "Flame burn"],
     "correctOption": 1,
     "correctAnswer": "Tenia corporis",
     "imageRequired": true,
-    "image" : "./images/2022/q27.png",
+    "image": "./images/2022/q27.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_2022_Question-Paper.pdf",
@@ -6744,12 +5944,7 @@
     "year": 2022,
     "questionNumber": 29,
     "question": "A patient has fallen from the roof top, spinal injury is suspected the emergency intervention in such cases includes ?",
-    "options": [
-      "Jaw thrust",
-      "Head tilt chin lift",
-      "Both A and B",
-      "CPR"
-    ],
+    "options": ["Jaw thrust", "Head tilt chin lift", "Both A and B", "CPR"],
     "correctOption": 1,
     "correctAnswer": "Jaw thrust",
     "imageRequired": false,
@@ -6896,12 +6091,7 @@
     "year": 2022,
     "questionNumber": 37,
     "question": "Calculate the total back and one arm burn percentage",
-    "options": [
-      "18 percent",
-      "9 percent",
-      "27 percent",
-      "36 percent"
-    ],
+    "options": ["18 percent", "9 percent", "27 percent", "36 percent"],
     "correctOption": 3,
     "correctAnswer": "27 percent",
     "imageRequired": false,
@@ -6934,12 +6124,7 @@
     "year": 2022,
     "questionNumber": 39,
     "question": "Black lung disease is caused by caused by",
-    "options": [
-      "Coal dust",
-      "Cotton dust",
-      "Sugarcane dust",
-      "Asbestos fiber"
-    ],
+    "options": ["Coal dust", "Cotton dust", "Sugarcane dust", "Asbestos fiber"],
     "correctOption": 1,
     "correctAnswer": "Coal dust",
     "imageRequired": false,
@@ -6962,7 +6147,7 @@
     "correctOption": 1,
     "correctAnswer": "Naegele's pelvis",
     "imageRequired": true,
-    "image" : "./images/2022/q40.png",
+    "image": "./images/2022/q40.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_2022_Question-Paper.pdf",
@@ -6992,12 +6177,7 @@
     "year": 2022,
     "questionNumber": 42,
     "question": "The regular monitoring of blood pressure is under which level of prevention?",
-    "options": [
-      "Primordial",
-      "Primary",
-      "Secondary",
-      "Tertiary"
-    ],
+    "options": ["Primordial", "Primary", "Secondary", "Tertiary"],
     "correctOption": 3,
     "correctAnswer": "Secondary",
     "imageRequired": false,
@@ -7011,12 +6191,7 @@
     "year": 2022,
     "questionNumber": 43,
     "question": "The drug prescription is 20mcg, Available dose for a drug is 30mcg/15ml How much ml is administered",
-    "options": [
-      "10",
-      "18",
-      "20",
-      "25"
-    ],
+    "options": ["10", "18", "20", "25"],
     "correctOption": 1,
     "correctAnswer": "10",
     "imageRequired": false,
@@ -7049,12 +6224,7 @@
     "year": 2022,
     "questionNumber": 45,
     "question": "Most heat sensitive vaccine is:",
-    "options": [
-      "Measles",
-      "DPT",
-      "OPV",
-      "Hepatitis B"
-    ],
+    "options": ["Measles", "DPT", "OPV", "Hepatitis B"],
     "correctOption": 3,
     "correctAnswer": "OPV",
     "imageRequired": false,
@@ -7068,12 +6238,7 @@
     "year": 2022,
     "questionNumber": 46,
     "question": "Vaccine that can be freeze and still it does not lose its potency",
-    "options": [
-      "MMR",
-      "DPT",
-      "TT",
-      "OPV"
-    ],
+    "options": ["MMR", "DPT", "TT", "OPV"],
     "correctOption": 1,
     "correctAnswer": "MMR",
     "imageRequired": false,
@@ -7087,12 +6252,7 @@
     "year": 2022,
     "questionNumber": 47,
     "question": "Which is the disactivated whole virion vaccine",
-    "options": [
-      "Covaxin",
-      "Covishield",
-      "Moderna",
-      "Sputnik"
-    ],
+    "options": ["Covaxin", "Covishield", "Moderna", "Sputnik"],
     "correctOption": 1,
     "correctAnswer": "Covaxin",
     "imageRequired": false,
@@ -7106,12 +6266,7 @@
     "year": 2022,
     "questionNumber": 48,
     "question": "All of the following disease fall under National Vector Born Disease Control Program except",
-    "options": [
-      "Filaria",
-      "Chikungunya",
-      "Dengue",
-      "Plague"
-    ],
+    "options": ["Filaria", "Chikungunya", "Dengue", "Plague"],
     "correctOption": 4,
     "correctAnswer": "Plague",
     "imageRequired": false,
@@ -7163,12 +6318,7 @@
     "year": 2022,
     "questionNumber": 51,
     "question": "Rat fly causes which of the following disease",
-    "options": [
-      "Kala azar",
-      "Typhus",
-      "Sandfly",
-      "Louse"
-    ],
+    "options": ["Kala azar", "Typhus", "Sandfly", "Louse"],
     "correctOption": 2,
     "correctAnswer": "Typhus",
     "imageRequired": false,
@@ -7220,12 +6370,7 @@
     "year": 2022,
     "questionNumber": 54,
     "question": "The amount of elemental iron in one iron tablet for mother is:",
-    "options": [
-      "60 mg",
-      "60 g",
-      "50 g",
-      "50 mg"
-    ],
+    "options": ["60 mg", "60 g", "50 g", "50 mg"],
     "correctOption": 1,
     "correctAnswer": "60 mg",
     "imageRequired": false,
@@ -7239,12 +6384,7 @@
     "year": 2022,
     "questionNumber": 55,
     "question": "To assess the pulse in child ____________ is most appropriate site",
-    "options": [
-      "Apical",
-      "Brachial",
-      "Femoral",
-      "Carotid"
-    ],
+    "options": ["Apical", "Brachial", "Femoral", "Carotid"],
     "correctOption": 1,
     "correctAnswer": "Apical",
     "imageRequired": false,
@@ -7286,7 +6426,7 @@
     "correctOption": 2,
     "correctAnswer": "X linked recessive",
     "imageRequired": true,
-    "image" : "./images/2022/q57.png",
+    "image": "./images/2022/q57.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_2022_Question-Paper.pdf",
@@ -7306,7 +6446,7 @@
     "correctOption": 2,
     "correctAnswer": "Vaginitis chlamydia",
     "imageRequired": true,
-    "image" : "./images/2022/q58.png",
+    "image": "./images/2022/q58.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_2022_Question-Paper.pdf",
@@ -7317,12 +6457,7 @@
     "year": 2022,
     "questionNumber": 59,
     "question": "Which of the following is a non-absorbable suture",
-    "options": [
-      "Polyester",
-      "Vicryl",
-      "Monocryl",
-      "Chromic catgut"
-    ],
+    "options": ["Polyester", "Vicryl", "Monocryl", "Chromic catgut"],
     "correctOption": 1,
     "correctAnswer": "Polyester",
     "imageRequired": false,
@@ -7336,12 +6471,7 @@
     "year": 2022,
     "questionNumber": 60,
     "question": "Normal urine output in 24 hour?",
-    "options": [
-      "300 ml",
-      "500 ml",
-      "2.5 Liter",
-      "1.5 Liter"
-    ],
+    "options": ["300 ml", "500 ml", "2.5 Liter", "1.5 Liter"],
     "correctOption": 4,
     "correctAnswer": "1.5 Liter",
     "imageRequired": false,
@@ -7488,12 +6618,7 @@
     "year": 2022,
     "questionNumber": 68,
     "question": "At what time period the child learns about the gender identity",
-    "options": [
-      "1 year",
-      "3 years",
-      "8 years",
-      "10 years"
-    ],
+    "options": ["1 year", "3 years", "8 years", "10 years"],
     "correctOption": 2,
     "correctAnswer": "3 years",
     "imageRequired": false,
@@ -7507,16 +6632,11 @@
     "year": 2022,
     "questionNumber": 69,
     "question": "Identify the correct mask position in the given image below",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "All of the above"
-    ],
+    "options": ["A", "B", "C", "All of the above"],
     "correctOption": 1,
     "correctAnswer": "A",
     "imageRequired": true,
-    "image" : "./images/2022/q69.png",
+    "image": "./images/2022/q69.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_2022_Question-Paper.pdf",
@@ -7527,12 +6647,7 @@
     "year": 2022,
     "questionNumber": 70,
     "question": "After thyroidectomy carpopedal spasm occur this is the result of:",
-    "options": [
-      "Hypercalcemia",
-      "Hypocalcemia",
-      "Hyperkalemia",
-      "Hypokalemia"
-    ],
+    "options": ["Hypercalcemia", "Hypocalcemia", "Hyperkalemia", "Hypokalemia"],
     "correctOption": 2,
     "correctAnswer": "Hypocalcemia",
     "imageRequired": false,
@@ -7565,12 +6680,7 @@
     "year": 2022,
     "questionNumber": 72,
     "question": "All are the antihypertensive drug advised to lactating mother except:",
-    "options": [
-      "Losartan",
-      "Lisinopril",
-      "Enapril",
-      "hydrochlorothiazide"
-    ],
+    "options": ["Losartan", "Lisinopril", "Enapril", "hydrochlorothiazide"],
     "correctOption": 1,
     "correctAnswer": "Losartan",
     "imageRequired": false,
@@ -7584,12 +6694,7 @@
     "year": 2022,
     "questionNumber": 73,
     "question": "Patient is on heparin which of the following test required before the administration of the heparin",
-    "options": [
-      "aPTT",
-      "PT",
-      "Serum hemoglobin test",
-      "Both A and B"
-    ],
+    "options": ["aPTT", "PT", "Serum hemoglobin test", "Both A and B"],
     "correctOption": 1,
     "correctAnswer": "aPTT",
     "imageRequired": false,
@@ -7641,16 +6746,11 @@
     "year": 2022,
     "questionNumber": 76,
     "question": "Size of the cannula shown in the image is:",
-    "options": [
-      "18 G",
-      "16 G",
-      "20 G",
-      "22 G"
-    ],
+    "options": ["18 G", "16 G", "20 G", "22 G"],
     "correctOption": 1,
     "correctAnswer": "18 G",
     "imageRequired": true,
-    "image" : "./images/2022/q76.png",
+    "image": "./images/2022/q76.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_2022_Question-Paper.pdf",
@@ -7680,12 +6780,7 @@
     "year": 2022,
     "questionNumber": 78,
     "question": "Which of the following electrolyte imbalance is associated with Digoxin toxicity?",
-    "options": [
-      "Hypokalemia",
-      "Hypernatremi",
-      "Hypernatremia",
-      "Hypocalcemia"
-    ],
+    "options": ["Hypokalemia", "Hypernatremi", "Hypernatremia", "Hypocalcemia"],
     "correctOption": 1,
     "correctAnswer": "Hypokalemia",
     "imageRequired": false,
@@ -7737,12 +6832,7 @@
     "year": 2022,
     "questionNumber": 81,
     "question": "The surgical removal of the entire contents of the orbit, including the eye balls and eyelids is",
-    "options": [
-      "Evisceration",
-      "Enucleation",
-      "Exenteration",
-      "Laser surgery"
-    ],
+    "options": ["Evisceration", "Enucleation", "Exenteration", "Laser surgery"],
     "correctOption": 3,
     "correctAnswer": "Exenteration",
     "imageRequired": false,
@@ -7756,12 +6846,7 @@
     "year": 2022,
     "questionNumber": 82,
     "question": "The small intestine does NOT involve the:",
-    "options": [
-      "jejunum",
-      "duodenum",
-      "ileum",
-      "caecum"
-    ],
+    "options": ["jejunum", "duodenum", "ileum", "caecum"],
     "correctOption": 4,
     "correctAnswer": "caecum",
     "imageRequired": false,
@@ -7813,12 +6898,7 @@
     "year": 2022,
     "questionNumber": 85,
     "question": "The nurse explains to the mother of a neonate diagnosed with erythroblastosis fetalis, that the exchange transfusion is necessary to prevent damage to",
-    "options": [
-      "Liver",
-      "Lungs",
-      "Kidneys",
-      "Brain"
-    ],
+    "options": ["Liver", "Lungs", "Kidneys", "Brain"],
     "correctOption": 4,
     "correctAnswer": "Brain",
     "imageRequired": false,
@@ -7832,12 +6912,7 @@
     "year": 2022,
     "questionNumber": 86,
     "question": "Which of the following should not be provided to the newborn in galactosemia?",
-    "options": [
-      "Milk",
-      "Starch",
-      "Gluten",
-      "Glycogen"
-    ],
+    "options": ["Milk", "Starch", "Gluten", "Glycogen"],
     "correctOption": 1,
     "correctAnswer": "Milk",
     "imageRequired": false,
@@ -7870,12 +6945,7 @@
     "year": 2022,
     "questionNumber": 88,
     "question": "Antibody 'A' and Antigen 'B' are present in which blood group?",
-    "options": [
-      "A",
-      "B",
-      "AB",
-      "O"
-    ],
+    "options": ["A", "B", "AB", "O"],
     "correctOption": 2,
     "correctAnswer": "B",
     "imageRequired": false,
@@ -7927,12 +6997,7 @@
     "year": 2022,
     "questionNumber": 91,
     "question": "When is World Patient Safety Day observed?",
-    "options": [
-      "16 September",
-      "17 September",
-      "18 September",
-      "19 September"
-    ],
+    "options": ["16 September", "17 September", "18 September", "19 September"],
     "correctOption": 2,
     "correctAnswer": "17 September",
     "imageRequired": false,
@@ -7946,12 +7011,7 @@
     "year": 2022,
     "questionNumber": 92,
     "question": "What is at the back of a Rs. 2000 note of Mahatma Gandhi (new) series?",
-    "options": [
-      "Sun Temple",
-      "Mangalayan",
-      "Red Fort",
-      "Rani Ki Vav"
-    ],
+    "options": ["Sun Temple", "Mangalayan", "Red Fort", "Rani Ki Vav"],
     "correctOption": 2,
     "correctAnswer": "Mangalayan",
     "imageRequired": false,
@@ -7965,12 +7025,7 @@
     "year": 2022,
     "questionNumber": 93,
     "question": "Punjab is also known as the \"Land of five rivers\". which one is not part of these 5 rivers?",
-    "options": [
-      "Sutlej",
-      "Yamuna",
-      "Ravi",
-      "Jhelum"
-    ],
+    "options": ["Sutlej", "Yamuna", "Ravi", "Jhelum"],
     "correctOption": 2,
     "correctAnswer": "Yamuna",
     "imageRequired": false,
@@ -8003,12 +7058,7 @@
     "year": 2022,
     "questionNumber": 95,
     "question": "The headquarters of RBI is in ________.",
-    "options": [
-      "Delhi",
-      "Kanpur",
-      "Mumbai",
-      "Nasik"
-    ],
+    "options": ["Delhi", "Kanpur", "Mumbai", "Nasik"],
     "correctOption": 3,
     "correctAnswer": "Mumbai",
     "imageRequired": false,
@@ -8041,17 +7091,12 @@
     "year": 2022,
     "questionNumber": 97,
     "question": "Select the option that correctly represents the relationship among the following: Animals, Birds, Dog, Pets.",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
+    "options": ["1", "2", "3", "4"],
     "correctOption": 1,
     "correctAnswer": "1",
     "imageRequired": true,
     "sourceType": "previous_year",
-    "image" : "./images/2022/q97.png",
+    "image": "./images/2022/q97.png",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_2022_Question-Paper.pdf",
     "id": 422
@@ -8061,12 +7106,7 @@
     "year": 2022,
     "questionNumber": 98,
     "question": "A person wants to make a sum of Rs.16 with 40 coins using 50 paise coins and 25 paise coins. How many coins are there of 25 paise?",
-    "options": [
-      "20",
-      "24",
-      "16",
-      "22"
-    ],
+    "options": ["20", "24", "16", "22"],
     "correctOption": 3,
     "correctAnswer": "16",
     "imageRequired": false,
@@ -8080,12 +7120,7 @@
     "year": 2022,
     "questionNumber": 99,
     "question": "A person buys an article at 7/9 of its value and sells it for 20 percent more than its value. What is his gain percentage?",
-    "options": [
-      "50 percent",
-      "45.3 percent",
-      "44.4 percent",
-      "54.3 percent"
-    ],
+    "options": ["50 percent", "45.3 percent", "44.4 percent", "54.3 percent"],
     "correctOption": 4,
     "correctAnswer": "54.3 percent",
     "imageRequired": false,
@@ -8099,12 +7134,7 @@
     "year": 2022,
     "questionNumber": 100,
     "question": "Which number is missing in the given number series? 0, 1, 1, 2, 3, 5, 8, 13, 21, ?, 55",
-    "options": [
-      "32",
-      "38",
-      "34",
-      "40"
-    ],
+    "options": ["32", "38", "34", "40"],
     "correctOption": 3,
     "correctAnswer": "34",
     "imageRequired": false,
@@ -8251,12 +7281,7 @@
     "year": 2023,
     "questionNumber": 8,
     "question": "Normal blood pressure of the adults?",
-    "options": [
-      "120/160mm hg",
-      "120/80 mm hg",
-      "100/70 mm hg",
-      "140/90mm hg"
-    ],
+    "options": ["120/160mm hg", "120/80 mm hg", "100/70 mm hg", "140/90mm hg"],
     "correctOption": 2,
     "correctAnswer": "120/80 mm hg",
     "imageRequired": false,
@@ -8298,7 +7323,7 @@
     "correctOption": 1,
     "correctAnswer": "Thyroidectomy",
     "imageRequired": true,
-    "image" : "./images/2023/q10.png",
+    "image": "./images/2023/q10.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_2023_Question-Paper.pdf",
@@ -8318,7 +7343,7 @@
     "correctOption": 3,
     "correctAnswer": "Non-Rebreather mask",
     "imageRequired": true,
-    "image" : "./images/2023/q11.png",
+    "image": "./images/2023/q11.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_2023_Question-Paper.pdf",
@@ -8367,12 +7392,7 @@
     "year": 2023,
     "questionNumber": 14,
     "question": "Which of the following medication is administered sublingually for managing angina pectoris",
-    "options": [
-      "Aspirin",
-      "Betalol",
-      "Nitroglycerine",
-      "Warfarin"
-    ],
+    "options": ["Aspirin", "Betalol", "Nitroglycerine", "Warfarin"],
     "correctOption": 3,
     "correctAnswer": "Nitroglycerine",
     "imageRequired": false,
@@ -8462,12 +7482,7 @@
     "year": 2023,
     "questionNumber": 19,
     "question": "What should be the ideal ratio of cardiac compression and respiration during CPR in a child?",
-    "options": [
-      "3:1",
-      "15 : 2",
-      "5:1",
-      "1:1"
-    ],
+    "options": ["3:1", "15 : 2", "5:1", "1:1"],
     "correctOption": 3,
     "correctAnswer": "5:1",
     "imageRequired": false,
@@ -8500,12 +7515,7 @@
     "year": 2023,
     "questionNumber": 21,
     "question": "What is the name of the outer lip like structure that protects the entrance to the female reproductive system?",
-    "options": [
-      "Hymen",
-      "Labia",
-      "Cervix",
-      "None of the above"
-    ],
+    "options": ["Hymen", "Labia", "Cervix", "None of the above"],
     "correctOption": 2,
     "correctAnswer": "Labia",
     "imageRequired": false,
@@ -8547,7 +7557,7 @@
     "correctOption": 1,
     "correctAnswer": "Benign prostatic hyperplasia",
     "imageRequired": true,
-    "image" : "./images/2023/q23.png",
+    "image": "./images/2023/q23.png",
     "sourceType": "previous_year",
     "needsReview": true,
     "sourceFile": "AIIMS_NORCET_2023_Question-Paper.pdf",
@@ -8586,7 +7596,7 @@
     "correctOption": 1,
     "correctAnswer": "Atrial fibrillation",
     "imageRequired": true,
-    "image" : "./images/2023/q25.png",
+    "image": "./images/2023/q25.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_2023_Question-Paper.pdf",
@@ -8597,12 +7607,7 @@
     "year": 2023,
     "questionNumber": 26,
     "question": "Most common symptom of alcohol withdrawal is:",
-    "options": [
-      "Rhinorrhea",
-      "Bodyache",
-      "Tremor",
-      "Diarrhea"
-    ],
+    "options": ["Rhinorrhea", "Bodyache", "Tremor", "Diarrhea"],
     "correctOption": 3,
     "correctAnswer": "Tremor",
     "imageRequired": false,
@@ -8654,12 +7659,7 @@
     "year": 2023,
     "questionNumber": 29,
     "question": "Hand rubbing time for Alcohol based hand washing is:",
-    "options": [
-      "10 to 15 sec",
-      "15 to 30 sec",
-      "30 to 45 sec",
-      "60 sec"
-    ],
+    "options": ["10 to 15 sec", "15 to 30 sec", "30 to 45 sec", "60 sec"],
     "correctOption": 2,
     "correctAnswer": "15 to 30 sec",
     "imageRequired": false,
@@ -8673,16 +7673,11 @@
     "year": 2023,
     "questionNumber": 30,
     "question": "Identify the given image below",
-    "options": [
-      "Tenia corporis",
-      "Bed sore",
-      "Steam Burn",
-      "Flame burn"
-    ],
+    "options": ["Tenia corporis", "Bed sore", "Steam Burn", "Flame burn"],
     "correctOption": 1,
     "correctAnswer": "Tenia corporis",
     "imageRequired": true,
-    "image" : "./images/2023/q30.png",
+    "image": "./images/2023/q30.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_2023_Question-Paper.pdf",
@@ -8693,12 +7688,7 @@
     "year": 2023,
     "questionNumber": 31,
     "question": "Gastric lavage is a procedure done to wash or irrigate the:",
-    "options": [
-      "Stomach",
-      "Urinary bladder",
-      "Rectum",
-      "Urethra"
-    ],
+    "options": ["Stomach", "Urinary bladder", "Rectum", "Urethra"],
     "correctOption": 1,
     "correctAnswer": "Stomach",
     "imageRequired": false,
@@ -8769,12 +7759,7 @@
     "year": 2023,
     "questionNumber": 35,
     "question": "Which of the following electrolyte imbalance is associated with Digoxin toxicity?",
-    "options": [
-      "Hypokalemia",
-      "Hypernatremi",
-      "Hypernatremia",
-      "Hypocalcemia"
-    ],
+    "options": ["Hypokalemia", "Hypernatremi", "Hypernatremia", "Hypocalcemia"],
     "correctOption": 1,
     "correctAnswer": "Hypokalemia",
     "imageRequired": false,
@@ -8902,12 +7887,7 @@
     "year": 2023,
     "questionNumber": 42,
     "question": "Which condition is defined as the inflammation of the peritoneum?",
-    "options": [
-      "Duodenitis",
-      "Colitis",
-      "Peritonitis",
-      "Gastritis"
-    ],
+    "options": ["Duodenitis", "Colitis", "Peritonitis", "Gastritis"],
     "correctOption": 3,
     "correctAnswer": "Peritonitis",
     "imageRequired": false,
@@ -8959,12 +7939,7 @@
     "year": 2023,
     "questionNumber": 45,
     "question": "The ratio of lung inflation of chest compression in cardio pulmonary resuscitation is:",
-    "options": [
-      "1∶5",
-      "2∶5",
-      "1∶3",
-      "3∶1"
-    ],
+    "options": ["1∶5", "2∶5", "1∶3", "3∶1"],
     "correctOption": 3,
     "correctAnswer": "1∶3",
     "imageRequired": false,
@@ -8997,12 +7972,7 @@
     "year": 2023,
     "questionNumber": 47,
     "question": "During resuscitation in an infant, ratio of chest compression and ventilation breath should be?",
-    "options": [
-      "1:1",
-      "1:3",
-      "3:1",
-      "5:1"
-    ],
+    "options": ["1:1", "1:3", "3:1", "5:1"],
     "correctOption": 3,
     "correctAnswer": "3:1",
     "imageRequired": false,
@@ -9130,12 +8100,7 @@
     "year": 2023,
     "questionNumber": 54,
     "question": "How many moments of hand hygiene have been laid down by WHO?",
-    "options": [
-      "7",
-      "8",
-      "6",
-      "5"
-    ],
+    "options": ["7", "8", "6", "5"],
     "correctOption": 4,
     "correctAnswer": "5",
     "imageRequired": false,
@@ -9168,12 +8133,7 @@
     "year": 2023,
     "questionNumber": 56,
     "question": "What is the drug of choice, specifically for the management of convulsions in eclampsia?",
-    "options": [
-      "Diazepam",
-      "Pethidine",
-      "Magnesium sulphate",
-      "Ampicillin"
-    ],
+    "options": ["Diazepam", "Pethidine", "Magnesium sulphate", "Ampicillin"],
     "correctOption": 3,
     "correctAnswer": "Magnesium sulphate",
     "imageRequired": false,
@@ -9187,12 +8147,7 @@
     "year": 2023,
     "questionNumber": 57,
     "question": "A client with psychotic depression is receiving haloperidol (Haldol). Which of the following side effects is associated with haloperidol?",
-    "options": [
-      "Akathisia",
-      "Cataracts",
-      "Diaphoresis",
-      "Polyuria"
-    ],
+    "options": ["Akathisia", "Cataracts", "Diaphoresis", "Polyuria"],
     "correctOption": 1,
     "correctAnswer": "Akathisia",
     "imageRequired": false,
@@ -9225,12 +8180,7 @@
     "year": 2023,
     "questionNumber": 59,
     "question": "Which of the following hormone is also known as 'emergency hormone'?",
-    "options": [
-      "Cortisol",
-      "Growth Hormone",
-      "Prolactin",
-      "Adrenaline"
-    ],
+    "options": ["Cortisol", "Growth Hormone", "Prolactin", "Adrenaline"],
     "correctOption": 4,
     "correctAnswer": "Adrenaline",
     "imageRequired": false,
@@ -9244,12 +8194,7 @@
     "year": 2023,
     "questionNumber": 60,
     "question": "A lung disease caused by prolonged inhalation of cotton fibre dust is",
-    "options": [
-      "Bagassosis",
-      "Byssinosis",
-      "Farmers lung",
-      "Pneumonia"
-    ],
+    "options": ["Bagassosis", "Byssinosis", "Farmers lung", "Pneumonia"],
     "correctOption": 2,
     "correctAnswer": "Byssinosis",
     "imageRequired": false,
@@ -9263,12 +8208,7 @@
     "year": 2023,
     "questionNumber": 61,
     "question": "Height measurement of 2 year old child is done by",
-    "options": [
-      "Stadiometer",
-      "Infantometer",
-      "Goniometer",
-      "Refractometer"
-    ],
+    "options": ["Stadiometer", "Infantometer", "Goniometer", "Refractometer"],
     "correctOption": 1,
     "correctAnswer": "Stadiometer",
     "imageRequired": false,
@@ -9301,12 +8241,7 @@
     "year": 2023,
     "questionNumber": 63,
     "question": "DMPA is an injectable contraceptive given every",
-    "options": [
-      "3 weeks",
-      "3 months",
-      "2 months",
-      "2 years"
-    ],
+    "options": ["3 weeks", "3 months", "2 months", "2 years"],
     "correctOption": 2,
     "correctAnswer": "3 months",
     "imageRequired": false,
@@ -9358,12 +8293,7 @@
     "year": 2023,
     "questionNumber": 66,
     "question": "Which of the following is a mydriatic",
-    "options": [
-      "Atropine",
-      "Adrenaline",
-      "Novocain",
-      "Silver nitrate"
-    ],
+    "options": ["Atropine", "Adrenaline", "Novocain", "Silver nitrate"],
     "correctOption": 1,
     "correctAnswer": "Atropine",
     "imageRequired": false,
@@ -9377,12 +8307,7 @@
     "year": 2023,
     "questionNumber": 67,
     "question": "The normal newborn hemoglobin level is:",
-    "options": [
-      "17-20 g/dl",
-      "12-14 g/dl",
-      "10-12 g/dl",
-      "20-25 g/dl"
-    ],
+    "options": ["17-20 g/dl", "12-14 g/dl", "10-12 g/dl", "20-25 g/dl"],
     "correctOption": 1,
     "correctAnswer": "17-20 g/dl",
     "imageRequired": false,
@@ -9453,16 +8378,11 @@
     "year": 2023,
     "questionNumber": 71,
     "question": "Identify blade size?",
-    "options": [
-      "11",
-      "10",
-      "15",
-      "12"
-    ],
+    "options": ["11", "10", "15", "12"],
     "correctOption": 3,
     "correctAnswer": "15",
     "imageRequired": true,
-    "image" : "./images/2023/q71.png",
+    "image": "./images/2023/q71.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_2023_Question-Paper.pdf",
@@ -9511,12 +8431,7 @@
     "year": 2023,
     "questionNumber": 74,
     "question": "What room temperature should be maintained during the period of phototherapy?",
-    "options": [
-      "24-26°C",
-      "30-32°C",
-      "28-30°C",
-      "26-28°C"
-    ],
+    "options": ["24-26°C", "30-32°C", "28-30°C", "26-28°C"],
     "correctOption": 3,
     "correctAnswer": "28-30°C",
     "imageRequired": false,
@@ -9606,12 +8521,7 @@
     "year": 2023,
     "questionNumber": 79,
     "question": "What is trimester wise weight gain in pregnancy?",
-    "options": [
-      "1, 5, 2 kg",
-      "5, 2, 5 kg",
-      "1, 5, 5 kg",
-      "5, 5, 5 kg"
-    ],
+    "options": ["1, 5, 2 kg", "5, 2, 5 kg", "1, 5, 5 kg", "5, 5, 5 kg"],
     "correctOption": 3,
     "correctAnswer": "1, 5, 5 kg",
     "imageRequired": false,
@@ -9644,12 +8554,7 @@
     "year": 2024,
     "questionNumber": 1,
     "question": "Normal compression to ventilation ratio:",
-    "options": [
-      "30 ∶ 2",
-      "15 ∶ 2",
-      "2 ∶ 30",
-      "15 ∶ 1"
-    ],
+    "options": ["30 ∶ 2", "15 ∶ 2", "2 ∶ 30", "15 ∶ 1"],
     "correctOption": 1,
     "correctAnswer": "30 ∶ 2",
     "imageRequired": false,
@@ -9701,12 +8606,7 @@
     "year": 2024,
     "questionNumber": 4,
     "question": "Complication of high flow of ventilation:",
-    "options": [
-      "Aspiration",
-      "Pneumothorax",
-      "Diaphragmatic Hernia",
-      "COPD"
-    ],
+    "options": ["Aspiration", "Pneumothorax", "Diaphragmatic Hernia", "COPD"],
     "correctOption": 2,
     "correctAnswer": "Pneumothorax",
     "imageRequired": false,
@@ -9720,16 +8620,11 @@
     "year": 2024,
     "questionNumber": 5,
     "question": "Identify the FiO2 rate in the given venturi mask: correct answer : 1",
-    "options": [
-      "40%",
-      "31%",
-      "60%",
-      "28%"
-    ],
+    "options": ["40%", "31%", "60%", "28%"],
     "correctOption": 1,
     "correctAnswer": "40%",
     "imageRequired": true,
-    "image" : "./images/2024/q5.png",
+    "image": "./images/2024/q5.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_6_-2024-Prelims_exam-paper-1.pdf",
@@ -9797,12 +8692,7 @@
     "year": 2024,
     "questionNumber": 9,
     "question": "The earliest symptom of Hyponatremia is:",
-    "options": [
-      "Fatigue",
-      "Ataxia",
-      "Thirst",
-      "Weakness"
-    ],
+    "options": ["Fatigue", "Ataxia", "Thirst", "Weakness"],
     "correctOption": 1,
     "correctAnswer": "Fatigue",
     "imageRequired": false,
@@ -9835,12 +8725,7 @@
     "year": 2024,
     "questionNumber": 11,
     "question": "Patient has Vitals : BP - 120/66, Pulse - 88, SpO2 - 99, RR - 23. This patient should be classified in which triage:",
-    "options": [
-      "Red",
-      "Yellow",
-      "Green",
-      "Black"
-    ],
+    "options": ["Red", "Yellow", "Green", "Black"],
     "correctOption": 3,
     "correctAnswer": "Green",
     "imageRequired": false,
@@ -9854,12 +8739,7 @@
     "year": 2024,
     "questionNumber": 12,
     "question": "Patient is having Temp. - 104F, BP - 140/90 mm Hg, RR - 28/min, Pain scale - 5. Which factor you will primarily manage in this patient:",
-    "options": [
-      "Temp 104F",
-      "BP 140/90 mm Hg",
-      "RR - 30/min",
-      "Pain scale 5"
-    ],
+    "options": ["Temp 104F", "BP 140/90 mm Hg", "RR - 30/min", "Pain scale 5"],
     "correctOption": 1,
     "correctAnswer": "Temp 104F",
     "imageRequired": false,
@@ -9892,12 +8772,7 @@
     "year": 2024,
     "questionNumber": 14,
     "question": "According to ABC, which of the following describes improper cardiac circulation?",
-    "options": [
-      "Hypotension",
-      "Diminished Pulse",
-      "Tachypnea",
-      "CRT < 3 sec"
-    ],
+    "options": ["Hypotension", "Diminished Pulse", "Tachypnea", "CRT < 3 sec"],
     "correctOption": 2,
     "correctAnswer": "Diminished Pulse",
     "imageRequired": false,
@@ -9911,12 +8786,7 @@
     "year": 2024,
     "questionNumber": 15,
     "question": "During IV administration, which of the following drug causes extravasation and damage to site:",
-    "options": [
-      "Diazepam",
-      "Epinephrine",
-      "Phenytoin",
-      "Ranitidine"
-    ],
+    "options": ["Diazepam", "Epinephrine", "Phenytoin", "Ranitidine"],
     "correctOption": 3,
     "correctAnswer": "Phenytoin",
     "imageRequired": false,
@@ -10006,12 +8876,7 @@
     "year": 2024,
     "questionNumber": 20,
     "question": "WHO declared COVID 19 a Public Health Emergency on:",
-    "options": [
-      "13/01/2020",
-      "30/01/2020",
-      "31/01/2020",
-      "20/01/2020"
-    ],
+    "options": ["13/01/2020", "30/01/2020", "31/01/2020", "20/01/2020"],
     "correctOption": 2,
     "correctAnswer": "30/01/2020",
     "imageRequired": false,
@@ -10025,12 +8890,7 @@
     "year": 2024,
     "questionNumber": 21,
     "question": "The normal interval of the QRS complex is:",
-    "options": [
-      "0.08 sec",
-      "0.12 sec",
-      "0.16 sec",
-      "0.4 sec"
-    ],
+    "options": ["0.08 sec", "0.12 sec", "0.16 sec", "0.4 sec"],
     "correctOption": 1,
     "correctAnswer": "0.08 sec",
     "imageRequired": false,
@@ -10044,12 +8904,7 @@
     "year": 2024,
     "questionNumber": 22,
     "question": "The flow rate of a drug is shown as 50 mL in 15 min. The correct flow rate of this drug is:",
-    "options": [
-      "150 mL/hour",
-      "50 mL/hour",
-      "200 mL/hour",
-      "100 mL/hour"
-    ],
+    "options": ["150 mL/hour", "50 mL/hour", "200 mL/hour", "100 mL/hour"],
     "correctOption": 3,
     "correctAnswer": "200 mL/hour",
     "imageRequired": false,
@@ -10063,12 +8918,7 @@
     "year": 2024,
     "questionNumber": 23,
     "question": "For a patient, the desired dose of a drug is 200mg BD. The available dose of this drug is 0.1 gm. The correct dosage for one dose of this drug is?",
-    "options": [
-      "1 tab",
-      "2 tab",
-      "3 tab",
-      "4 tab"
-    ],
+    "options": ["1 tab", "2 tab", "3 tab", "4 tab"],
     "correctOption": 2,
     "correctAnswer": "2 tab",
     "imageRequired": false,
@@ -10082,12 +8932,7 @@
     "year": 2024,
     "questionNumber": 24,
     "question": "Desired dose of Morphine for a patient is 0.4 mg. Dose available is 1 mg/mL. The correct formulation for this patient is:",
-    "options": [
-      "0.4 mL",
-      "0.8mL",
-      "0.2mL",
-      "0.3mL"
-    ],
+    "options": ["0.4 mL", "0.8mL", "0.2mL", "0.3mL"],
     "correctOption": 1,
     "correctAnswer": "0.4 mL",
     "imageRequired": false,
@@ -10101,12 +8946,7 @@
     "year": 2024,
     "questionNumber": 25,
     "question": "An asthma patient comes to emergency with complaints of wheezing and chest pain. What should be the flow rate of Oxygen for this patient?",
-    "options": [
-      "2L/min",
-      "5L/min",
-      "10L/min",
-      "15 L/min"
-    ],
+    "options": ["2L/min", "5L/min", "10L/min", "15 L/min"],
     "correctOption": 1,
     "correctAnswer": "2L/min",
     "imageRequired": false,
@@ -10120,12 +8960,7 @@
     "year": 2024,
     "questionNumber": 26,
     "question": "In a patient, Apical pulse is 80/min and radial pulse is 65/min. Identify Pulse deficit?",
-    "options": [
-      "10",
-      "15",
-      "25",
-      "35"
-    ],
+    "options": ["10", "15", "25", "35"],
     "correctOption": 2,
     "correctAnswer": "15",
     "imageRequired": false,
@@ -10243,7 +9078,7 @@
     "correctOption": 3,
     "correctAnswer": "Sinus tachycardia",
     "imageRequired": true,
-    "image" : "./images/2024/q32.png",
+    "image": "./images/2024/q32.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_6_-2024-Prelims_exam-paper-1.pdf",
@@ -10301,7 +9136,7 @@
     "correctOption": 1,
     "correctAnswer": "Allis forceps",
     "imageRequired": true,
-    "image" : "./images/2024/q35.png",
+    "image": "./images/2024/q35.png",
     "sourceType": "previous_year",
     "needsReview": false,
     "sourceFile": "AIIMS_NORCET_6_-2024-Prelims_exam-paper-1.pdf",
@@ -10331,12 +9166,7 @@
     "year": 2024,
     "questionNumber": 37,
     "question": "Maximum Bharat ratna awards were given in which year:",
-    "options": [
-      "1999",
-      "2024",
-      "1989",
-      "2022"
-    ],
+    "options": ["1999", "2024", "1989", "2022"],
     "correctOption": 2,
     "correctAnswer": "2024",
     "imageRequired": false,
@@ -10350,12 +9180,7 @@
     "year": 2024,
     "questionNumber": 38,
     "question": "Identify the odd one:",
-    "options": [
-      "Cream",
-      "Butter",
-      "Ghee",
-      "Oil"
-    ],
+    "options": ["Cream", "Butter", "Ghee", "Oil"],
     "correctOption": 4,
     "correctAnswer": "Oil",
     "imageRequired": false,
@@ -10369,12 +9194,7 @@
     "year": 2024,
     "questionNumber": 39,
     "question": "Core body temperature can be measured using all of the following methods; except:",
-    "options": [
-      "Oral",
-      "Rectal",
-      "Temporal artery",
-      "Esophageal"
-    ],
+    "options": ["Oral", "Rectal", "Temporal artery", "Esophageal"],
     "correctOption": 3,
     "correctAnswer": "Temporal artery",
     "imageRequired": false,
@@ -10559,12 +9379,7 @@
     "year": 2024,
     "questionNumber": 49,
     "question": "In a 20% burns patient, how should we check the fluid volume?",
-    "options": [
-      "Weight",
-      "Skin integrity",
-      "Strict intake output",
-      "Height"
-    ],
+    "options": ["Weight", "Skin integrity", "Strict intake output", "Height"],
     "correctOption": 3,
     "correctAnswer": "Strict intake output",
     "imageRequired": false,
@@ -10578,12 +9393,7 @@
     "year": 2024,
     "questionNumber": 50,
     "question": "What is the antonym of monarchy:",
-    "options": [
-      "Democracy",
-      "Piracy",
-      "Autocracy",
-      "Kingship"
-    ],
+    "options": ["Democracy", "Piracy", "Autocracy", "Kingship"],
     "correctOption": 1,
     "correctAnswer": "Democracy",
     "imageRequired": false,
@@ -10597,12 +9407,7 @@
     "year": 2024,
     "questionNumber": 51,
     "question": "Group of crow is also known as:",
-    "options": [
-      "Murder",
-      "Flock",
-      "Herd",
-      "Pack"
-    ],
+    "options": ["Murder", "Flock", "Herd", "Pack"],
     "correctOption": 1,
     "correctAnswer": "Murder",
     "imageRequired": false,
@@ -10635,12 +9440,7 @@
     "year": 2024,
     "questionNumber": 53,
     "question": "Which behavior therapy should be given to a patient suffering from leg pain and stiffness?",
-    "options": [
-      "Hypnosis",
-      "Relaxation",
-      "Meditation",
-      "Masturbation"
-    ],
+    "options": ["Hypnosis", "Relaxation", "Meditation", "Masturbation"],
     "correctOption": 2,
     "correctAnswer": "Relaxation",
     "imageRequired": false,
@@ -10692,12 +9492,7 @@
     "year": 2024,
     "questionNumber": 56,
     "question": "A patient admitted in hospital and suffering from pain, stiffness and fever for 3 days. He is confirmed with HAI. When should a nurse tell the patient about HAI?",
-    "options": [
-      "On admission",
-      "After 1 day",
-      "After 2 days",
-      "At discharge"
-    ],
+    "options": ["On admission", "After 1 day", "After 2 days", "At discharge"],
     "correctOption": 3,
     "correctAnswer": "After 2 days",
     "imageRequired": false,
@@ -10711,12 +9506,7 @@
     "year": 2024,
     "questionNumber": 57,
     "question": "First Indian who beat a computer?",
-    "options": [
-      "Shakuntala Devi",
-      "CV Raman",
-      "Ramanunj",
-      "Homi J. Bhabha"
-    ],
+    "options": ["Shakuntala Devi", "CV Raman", "Ramanunj", "Homi J. Bhabha"],
     "correctOption": 1,
     "correctAnswer": "Shakuntala Devi",
     "imageRequired": false,
@@ -10730,12 +9520,7 @@
     "year": 2024,
     "questionNumber": 58,
     "question": "A female came to hospital with a breast nodule of size 2 c.m which is freely movable, palpable but no nipple discharge is seen from the breast. What is the best investigation for this condition?",
-    "options": [
-      "F.N.A.C",
-      "Core needle biopsy",
-      "Breast U.S.G",
-      "Mammography"
-    ],
+    "options": ["F.N.A.C", "Core needle biopsy", "Breast U.S.G", "Mammography"],
     "correctOption": 4,
     "correctAnswer": "Mammography",
     "imageRequired": false,
@@ -10768,12 +9553,7 @@
     "year": 2024,
     "questionNumber": 60,
     "question": "Emla, a topical anesthetic, should be applied for how much time before the procedure?",
-    "options": [
-      "10 min",
-      "30 min",
-      "60 min",
-      "Immediately before procedure"
-    ],
+    "options": ["10 min", "30 min", "60 min", "Immediately before procedure"],
     "correctOption": 3,
     "correctAnswer": "60 min",
     "imageRequired": false,
@@ -10787,12 +9567,7 @@
     "year": 2024,
     "questionNumber": 61,
     "question": "Suppose you are a nurse on duty and you are asked to measure the BP of an adult. While choosing the cuff, the correct ratio of bladder in length and width is?",
-    "options": [
-      "1∶3",
-      "2∶1",
-      "1∶2",
-      "3∶1"
-    ],
+    "options": ["1∶3", "2∶1", "1∶2", "3∶1"],
     "correctOption": 2,
     "correctAnswer": "2∶1",
     "imageRequired": false,
@@ -10806,12 +9581,7 @@
     "year": 2024,
     "questionNumber": 62,
     "question": "Smallest syringe size of 1st use of Central venous access device is?",
-    "options": [
-      "5ml",
-      "1ml",
-      "2ml",
-      "10ml"
-    ],
+    "options": ["5ml", "1ml", "2ml", "10ml"],
     "correctOption": 4,
     "correctAnswer": "10ml",
     "imageRequired": false,
@@ -10844,12 +9614,7 @@
     "year": 2024,
     "questionNumber": 64,
     "question": "Guess the next number in this series - 150, 170, 155, 160, 180, 165, ?",
-    "options": [
-      "130",
-      "150",
-      "160",
-      "170"
-    ],
+    "options": ["130", "150", "160", "170"],
     "correctOption": 4,
     "correctAnswer": "170",
     "imageRequired": false,
@@ -10882,12 +9647,7 @@
     "year": 2024,
     "questionNumber": 66,
     "question": "54 ∶ 18 ∶∶ 62 ∶ ?",
-    "options": [
-      "16",
-      "24",
-      "20",
-      "15"
-    ],
+    "options": ["16", "24", "20", "15"],
     "correctOption": 1,
     "correctAnswer": "16",
     "imageRequired": false,
@@ -10901,12 +9661,7 @@
     "year": 2024,
     "questionNumber": 67,
     "question": "After taking blood from Blood bank, the blood transfusion should be started within?",
-    "options": [
-      "30 min",
-      "60 min",
-      "90 min",
-      "No such time limit"
-    ],
+    "options": ["30 min", "60 min", "90 min", "No such time limit"],
     "correctOption": 1,
     "correctAnswer": "30 min",
     "imageRequired": false,
@@ -11053,12 +9808,7 @@
     "year": 2024,
     "questionNumber": 75,
     "question": "A 28 year old female present with hirsutism and male like hairs on body which test should do",
-    "options": [
-      "FSH",
-      "LH",
-      "TVS USG",
-      "Progesterone"
-    ],
+    "options": ["FSH", "LH", "TVS USG", "Progesterone"],
     "correctOption": 3,
     "correctAnswer": "TVS USG",
     "imageRequired": false,
@@ -11072,12 +9822,7 @@
     "year": 2024,
     "questionNumber": 76,
     "question": "A G3P2 female had 2 Cesarean sections. What is the risk of uterine rupture in this female?",
-    "options": [
-      "2 - 3%",
-      "5 - 7%",
-      "10 - 12%",
-      "46%"
-    ],
+    "options": ["2 - 3%", "5 - 7%", "10 - 12%", "46%"],
     "correctOption": 1,
     "correctAnswer": "2 - 3%",
     "imageRequired": false,
@@ -11091,12 +9836,7 @@
     "year": 2024,
     "questionNumber": 77,
     "question": "Which medication should not be administered in treatment of CSD in Lumbar puncture?",
-    "options": [
-      "Anti - inflammatory",
-      "Steroids",
-      "Antibiotics",
-      "Anesthetic"
-    ],
+    "options": ["Anti - inflammatory", "Steroids", "Antibiotics", "Anesthetic"],
     "correctOption": 2,
     "correctAnswer": "Steroids",
     "imageRequired": false,
@@ -11110,12 +9850,7 @@
     "year": 2024,
     "questionNumber": 78,
     "question": "Cefuroxime sodium, 1 g in 50 mL normal saline (NS), is to be administered over 30 minutes to a client with an infection. The drop factor is 15 drops (gtt) / 1 mL. The nurse sets the flow rate at how many drops per minute?",
-    "options": [
-      "22 gtt/min",
-      "25 gtt/min",
-      "28 gtt/min",
-      "30 gtt/min"
-    ],
+    "options": ["22 gtt/min", "25 gtt/min", "28 gtt/min", "30 gtt/min"],
     "correctOption": 2,
     "correctAnswer": "25 gtt/min",
     "imageRequired": false,
