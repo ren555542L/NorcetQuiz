@@ -2140,7 +2140,7 @@
     "options": [
       "Dizziness",
       "Headache",
-      "Bone marrow",
+      "Bone marrow suppression",
       "Immunity suppresion suppresion"
     ],
     "correctOption": 3,
@@ -4092,8 +4092,8 @@
     "questionNumber": 118,
     "question": "The reason why lipstick and nail-polish is removed before surgery is :",
     "options": [
-      "Surgery becomes",
-      "Surgery becomes more easier successful",
+      "Surgery becomes easier",
+      "Surgery becomes more successful",
       "Psychological benefits",
       "Cyanosis is checked to the patient"
     ],
@@ -7547,7 +7547,7 @@
     "sourceId": "NORCET-2023-Q023",
     "year": 2023,
     "questionNumber": 23,
-    "question": "[Image-based question; refer to source paper]",
+    "question": "Identify the post-renal cause of acute renal failure.",
     "options": [
       "Benign prostatic hyperplasia",
       "Acute glomerulonephritis",
